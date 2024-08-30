@@ -23,9 +23,6 @@ class Solution {
                     while(nums[leftp] == nums[leftp-1] && leftp < rightp){
                         leftp++;
                     }
-                    while(nums[rightp] == nums[leftp-1] && leftp < rightp){
-                        rightp--;
-                    }
                 }
             }
         }
