@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0525-contiguous-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
