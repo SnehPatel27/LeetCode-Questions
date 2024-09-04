@@ -7,16 +7,24 @@ class Solution {
             sum = sum + chalk[i];
         }
 
-        toget = k % sum; 
+        k %= sum; 
 
-        sum = 0;
-        i=0;
-        System.out.println(toget);
-        while(toget >= chalk[i]){
-            System.out.println(toget+" asf ");
-            toget-=chalk[i];
-            i++;
+
+        for(i=0; i<chalk.length;i++){
+            if(chalk[i] > k){
+                return i;
+            }
+            k-=chalk[i];
         }
-        return i;
+        return -1;
+        // sum = 0;
+        // i=0;
+        // System.out.println(toget);
+        // while(toget >= chalk[i]){
+        //     System.out.println(toget+" asf ");
+        //     toget-=chalk[i];
+        //     i++;
+        // }
+        // return i;
     }
 }
