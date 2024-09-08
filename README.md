@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0202-happy-number) |
 ## Depth-First Search
 |  |
@@ -103,9 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
