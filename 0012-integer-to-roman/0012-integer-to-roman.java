@@ -7,9 +7,11 @@ class Solution {
 
         for (int i = 0; i < values.length; i++) {
             while (num >= values[i]) {
-                // System.out.println(num + " " + values[i] + " " + romanNumerals[i]);
                 sb.append(romanNumerals[i]);
                 num -= values[i];
+            }
+            if(num == 0){
+                break;
             }
         }
 
