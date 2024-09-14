@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0202-happy-number) |
 ## Depth-First Search
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
