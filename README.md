@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0202-happy-number) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
