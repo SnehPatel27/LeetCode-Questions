@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0118-pascals-triangle) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
