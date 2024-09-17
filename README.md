@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0525-contiguous-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0525-contiguous-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -148,8 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0169-majority-element) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0050-powx-n) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
