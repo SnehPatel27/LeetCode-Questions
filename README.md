@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0202-happy-number) |
 ## Depth-First Search
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
