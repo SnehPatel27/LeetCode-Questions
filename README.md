@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0202-happy-number) |
 ## Depth-First Search
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
