@@ -10,7 +10,7 @@
  * }
  */
 public class Solution {
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+    public ListNode getIntersectionNode2(ListNode headA, ListNode headB) {
         int listALength = 0;
         int listBLength = 0;
 
@@ -63,5 +63,18 @@ public class Solution {
         }
 
         return null;
+    }
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+
+        ListNode currentNodeA = headA;
+        ListNode currentNodeB = headB;
+
+        while(currentNodeA != currentNodeB){
+            currentNodeA = (currentNodeA == null) ? headB : currentNodeA.next;
+            currentNodeB = (currentNodeB == null) ? headA : currentNodeB.next;
+
+        }
+
+        return currentNodeA;
     }
 }
