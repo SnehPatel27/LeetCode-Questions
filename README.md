@@ -143,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
@@ -250,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
