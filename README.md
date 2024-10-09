@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
@@ -262,14 +263,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 ## Monotonic Stack
 |  |
