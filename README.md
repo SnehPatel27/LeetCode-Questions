@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0948-sort-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [1002-maximum-width-ramp](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 ## Tree
 |  |
 | ------- |
@@ -290,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [1002-maximum-width-ramp](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
