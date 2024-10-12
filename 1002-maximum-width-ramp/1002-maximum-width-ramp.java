@@ -14,6 +14,7 @@ class Solution {
                 maxcount = Math.max(maxcount, j - result.peek());
                 result.pop();
             }
+            if(result.isEmpty()) return maxcount;
         }
 
         return maxcount;
