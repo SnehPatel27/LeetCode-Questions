@@ -1,5 +1,5 @@
 class Solution {
-    public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+    public int[] nextGreaterElement1(int[] nums1, int[] nums2) {
         
         HashMap<Integer, Integer> result = new HashMap<>();
         Stack<Integer> nextgreater = new Stack<>();
@@ -40,6 +40,29 @@ class Solution {
         for(int keys: result.keySet()){
             nums1[i] = result.get(nums1[i]);
             i++;
+        }
+
+        return nums1;
+    }
+
+    public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+        
+        Map<Integer, Integer> result = new HashMap<>();
+        Stack<Integer> nextgreater = new Stack<>();
+
+        for(int i = nums2.length - 1; i >= 0; i--){
+            while(!nextgreater.isEmpty() && nums2[i] > nextgreater.peek()){
+                nextgreater.pop();
+            }
+
+            if(nextgreater.isEmpty()) result.put(nums2[i], -1);
+            else result.put(nums2[i], nextgreater.peek());
+
+            nextgreater.push(nums2[i]);
+        }
+
+        for(int i=0; i < nums1.length; i++){
+            nums1[i] = result.get(nums1[i]);
         }
 
         return nums1;
