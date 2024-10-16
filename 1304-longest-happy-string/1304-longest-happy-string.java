@@ -22,12 +22,8 @@ class Solution {
                 currc=0;
             }
             else if(c >= a && c >= b && currc != 2 || ( c > 0 && (curra == 2 || currb == 2))){
-                System.out.println("The value of c is "+c);
                 result+="c";
                 c--;
-                System.out.println("The value of c is "+c);
-                System.out.println("The value of b is "+b);
-                System.out.println("The value of a is "+a);
                 currc++;
                 curra=0;
                 currb=0;
