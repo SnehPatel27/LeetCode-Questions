@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0670-maximum-swap](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0202-happy-number) |
+| [0670-maximum-swap](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0670-maximum-swap) |
 ## Depth-First Search
 |  |
 | ------- |
