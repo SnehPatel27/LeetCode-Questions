@@ -13,14 +13,16 @@ class Solution {
         // return result;
 
         int minPrice = Integer.MAX_VALUE;
-        int result = 0;
-        for(int i=0;i<prices.length;i++){
+        int maxProfit = 0;
+
+        for(int i = 0; i < prices.length; i++){
             if(prices[i] < minPrice){
                 minPrice = prices[i];
             }else{
-                result = Math.max(result, prices[i] - minPrice);
+                maxProfit = Math.max(maxProfit, prices[i] - minPrice);
             }
         }
-        return result;
+
+        return maxProfit;
     }
 }
