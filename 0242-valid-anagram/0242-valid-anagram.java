@@ -18,9 +18,6 @@ class Solution {
         if(s.length() != t.length()){
             return false;
         }
-        s.toUpperCase();
-        t.toUpperCase();
-
         int count[] = new int[26];
 
         for(int i = 0; i < s.length(); i++){
