@@ -33,32 +33,5 @@ class Solution {
         }
 
         return dp[len1][len2];
-
-        // int stringLen = dp[len1][len2];
-        // int index = stringLen - 1;
-        // i = len1;
-        // j = i;
-        // StringBuilder strg = new StringBuilder();
-        // for(int k = 0; k < stringLen; k++){
-        //     strg.append("$");
-        // }
-        // System.out.println(strg);
-
-        // while(i > 0 && j > 0){
-        //     if(s.charAt(i - 1) == sReverse.charAt(j - 1)){
-        //         strg.setCharAt(index, s.charAt(i-1));
-        //         index--;
-        //         i = i - 1;
-        //         j = j - 1; 
-        //     }
-
-        //     else if(dp[i-1][j] >= dp[i][j-1]){
-        //         i = i - 1;
-        //     }else{
-        //         j = j - 1;
-        //     }
-        // }
-
-        // return strg.toString();
     }
 }
