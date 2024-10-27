@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Union Find
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -383,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1908-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
