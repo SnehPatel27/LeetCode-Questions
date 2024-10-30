@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
 | [3195-separate-black-and-white-balls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1547-destination-city](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1547-destination-city) |
+| [1894-merge-strings-alternately](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3195-separate-black-and-white-balls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
