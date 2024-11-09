@@ -18,7 +18,7 @@ class Solution {
             bucket[freq.get(keys)].add(keys);
         }
         int p = 0;
-        for(int i = bucket.length - 1; i >= 0 && p < k; i--){
+        for(int i = bucket.length - 1; i > 0 && p < k; i--){
             for(int n: bucket[i]){
                 result[p++] = n;
                 if(p == k){
