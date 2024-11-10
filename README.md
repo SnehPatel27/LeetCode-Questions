@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3195-separate-black-and-white-balls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
+| [3451-string-compression-iii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3451-string-compression-iii) |
 ## Linked List
 |  |
 | ------- |
