@@ -55,29 +55,24 @@ class Solution {
             return list1;
         }
 
-        if(list2.val < list1.val){
-            ListNode swap = list1;
-            list1 = list2;
-            list2 = swap;
-        }
+        ListNode dummy = new ListNode(-1);
+        ListNode result = dummy;
 
-        ListNode result = list1;
-
-        while(list1!=null && list2!=null){
-            ListNode temp = null;
-
-            while(list1!=null && list1.val <= list2.val){
-                temp = list1;
+        while(list1 != null && list2 != null){
+            if(list1.val < list2.val){
+                result.next = list1;
+                result = result.next;
                 list1 = list1.next;
+            }else{
+                result.next = list2;
+                result = result.next;
+                list2 = list2.next;
             }
-
-            temp.next = list2;
-
-            ListNode swap = list1;
-            list1 = list2;
-            list2 = swap;
         }
 
-        return result;
-    }
+        if(list1 != null) result.next = list1;
+        else result.next = list2;
+
+        return dummy.next;
+   }
 }
