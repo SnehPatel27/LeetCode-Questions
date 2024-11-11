@@ -38,8 +38,10 @@ class Solution {
         }
 
         for(int i = 3; i * i < n; i = i + 2){
-            for(int j = i * i; j < n; j += i){
+            if(res[i] == true){
+                for(int j = i * i; j < n; j += i){
                 res[j] = false;
+                }
             }
         }
 
