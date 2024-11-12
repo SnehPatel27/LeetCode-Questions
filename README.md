@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1304-longest-happy-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1547-destination-city](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1547-destination-city) |
 | [1894-merge-strings-alternately](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Tree
 |  |
 | ------- |
