@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Quickselect
 |  |
 | ------- |
