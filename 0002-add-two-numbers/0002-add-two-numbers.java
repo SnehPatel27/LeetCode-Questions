@@ -36,8 +36,8 @@ class Solution {
         // return head.next;
 
         ListNode result = new ListNode(0);
-        ListNode head = result;
-        ListNode dummy = head;
+        // ListNode head = result;
+        ListNode dummy = result;
 
         int carry = 0;
 
@@ -59,7 +59,7 @@ class Solution {
             if(l2 != null) l2 = l2.next;
         }
 
-        return head.next;
+        return result.next;
 
     }
 }
