@@ -1,12 +1,3 @@
-class Pair{
-    char character;
-    int value;
-    Pair(char character, int value){
-        this.character = character;
-        this.value = value;
-    }
-}
-
 class Solution {
     public String removeDuplicates(String s, int k) {
         Stack<int[]> st = new Stack<>();
