@@ -27,11 +27,9 @@ class Solution {
             fastpointer = fastpointer.next;
         }
 
-        if(slowpointer.next == null){
-            slowpointer = null;
-        }else{
-            slowpointer.next = slowpointer.next.next;
-        }  
+        
+        slowpointer.next = slowpointer.next.next;
+        
 
         return head; 
     }
