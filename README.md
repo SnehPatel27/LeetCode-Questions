@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
+| [1095-two-city-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1095-two-city-scheduling) |
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1547-destination-city](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1547-destination-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0948-sort-an-array) |
+| [1095-two-city-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1095-two-city-scheduling) |
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 ## Greedy
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0670-maximum-swap) |
+| [1095-two-city-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1095-two-city-scheduling) |
 | [1304-longest-happy-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
