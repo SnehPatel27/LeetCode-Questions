@@ -12,6 +12,7 @@ class Solution {
             maxFreq = Math.max(maxFreq, hashMap[s.charAt(right) - 'A']);
             while((right - left + 1) - maxFreq > k){
                 hashMap[s.charAt(left) - 'A']--;
+                maxFreq = 0;
                 for(int i = 0; i < 26; i++){
                     maxFreq = Math.max(maxFreq, hashMap[i]);
                 }
