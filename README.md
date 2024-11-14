@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 ## Memoization
