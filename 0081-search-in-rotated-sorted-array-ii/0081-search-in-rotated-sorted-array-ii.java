@@ -8,7 +8,8 @@ class Solution {
             
             if(nums[mid] == target)
                 return true;
-            
+            //For cases like [3,2,1,3,3,3,3]. In this case mid low and high all are same.
+            //so sorted half is unknown so we would just trim down the search space.
             else if(nums[mid] == nums[low] && nums[low] == nums[high]){
                 low++;
                 high--;
