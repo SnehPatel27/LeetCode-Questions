@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2047-find-a-peak-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Hash Table
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2047-find-a-peak-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2047-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [2047-find-a-peak-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2047-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
