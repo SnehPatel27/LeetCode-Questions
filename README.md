@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0697-degree-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1272-invalid-transactions) |
 | [1547-destination-city](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1547-destination-city) |
