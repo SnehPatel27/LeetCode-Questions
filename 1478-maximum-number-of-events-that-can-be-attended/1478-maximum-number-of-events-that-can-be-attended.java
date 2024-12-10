@@ -15,15 +15,19 @@ class Solution {
                 day = events[index][0];
             }
 
+
+            //Keep on adding the events starting on the same day
             while(index < n && events[index][0] <= day){
                 pq.offer(events[index][1]);
                 index++;
             }
 
+            //pull out the event with the lowest end time
             pq.poll();
             result++;
             day++;
 
+            //remove all events that end up before the day++ or all expired event
             while(!pq.isEmpty() && pq.peek() < day){
                 pq.poll();
             }
