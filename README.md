@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1272-invalid-transactions) |
 | [1306-minimum-absolute-difference](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1306-minimum-absolute-difference) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1547-destination-city](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1547-destination-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1272-invalid-transactions) |
 | [1306-minimum-absolute-difference](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1306-minimum-absolute-difference) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [1095-two-city-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1095-two-city-scheduling) |
 | [1304-longest-happy-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1304-longest-happy-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3195-separate-black-and-white-balls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1304-longest-happy-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Merge Sort
 |  |
