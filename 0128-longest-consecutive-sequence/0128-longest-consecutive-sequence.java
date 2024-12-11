@@ -1,5 +1,6 @@
 class Solution {
 
+    // in case of inteview provide this one
     public int longestConsecutive(int[] nums) {
         HashSet<Integer> result = new HashSet<>();
 
