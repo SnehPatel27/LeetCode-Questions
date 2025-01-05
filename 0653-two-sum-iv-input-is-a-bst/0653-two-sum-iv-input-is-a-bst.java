@@ -14,7 +14,8 @@
  * }
  */
 class Solution {
-
+    
+    //In case of an interview provide me this function.
     public boolean findTargett(TreeNode root, int k) {
         
         Stack<TreeNode> st = new Stack<>();
