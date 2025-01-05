@@ -32,6 +32,7 @@ class Solution {
         return maxLen;
     }
 
+    //In case he asks to optmize further provide this function 
     public int totalFruit(int[] fruits) {
         HashMap<Integer, Integer> result = new HashMap<>();
         int n = fruits.length;
