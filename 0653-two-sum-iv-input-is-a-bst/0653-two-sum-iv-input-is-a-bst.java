@@ -15,7 +15,7 @@
  */
 class Solution {
 
-    public boolean findTarget(TreeNode root, int k) {
+    public boolean findTargett(TreeNode root, int k) {
         
         Stack<TreeNode> st = new Stack<>();
         Set<Integer> visited = new HashSet<>();
@@ -36,5 +36,22 @@ class Solution {
         }
 
         return false;
+    }
+
+    public static boolean isContains(TreeNode root, HashSet<Integer> set, int target){
+        if(root == null)
+            return false;
+        
+        if(set.contains(target - root.val)){
+            return true;
+        }
+
+        set.add(root.val);
+        return isContains(root.left, set, target) || isContains(root.right, set, target);
+    }
+
+    public boolean findTarget(TreeNode root, int k) {
+        HashSet<Integer> set = new HashSet<>();
+        return isContains(root, set, k);
     }
 }
