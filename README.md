@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2470-removing-stars-from-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3195-separate-black-and-white-balls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3451-string-compression-iii) |
 ## Linked List
