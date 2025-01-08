@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 ## Doubly-Linked List
 |  |
