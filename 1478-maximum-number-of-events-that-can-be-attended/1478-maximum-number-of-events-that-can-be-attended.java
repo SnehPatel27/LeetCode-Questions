@@ -17,7 +17,9 @@ class Solution {
 
 
             //Keep on adding the events starting on the same day
-            while(index < n && events[index][0] == day){
+            //Below in the events[index][0] You can also do == day. because it would never be less then the previous day
+            //since the list has been sorted initially
+            while(index < n && events[index][0] <= day){
                 pq.offer(events[index][1]);
                 index++;
             }
