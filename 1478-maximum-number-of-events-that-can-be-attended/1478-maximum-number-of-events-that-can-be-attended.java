@@ -17,7 +17,7 @@ class Solution {
 
 
             //Keep on adding the events starting on the same day
-            while(index < n && events[index][0] <= day){
+            while(index < n && events[index][0] == day){
                 pq.offer(events[index][1]);
                 index++;
             }
