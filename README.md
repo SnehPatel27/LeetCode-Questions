@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2470-removing-stars-from-a-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
