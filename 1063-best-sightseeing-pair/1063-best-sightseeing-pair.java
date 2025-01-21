@@ -1,4 +1,6 @@
 class Solution {
+    
+    //Brute Force solution would be to iterate over all the possible pairs and compute the max.
     public int maxScoreSightseeingPair(int[] values) {
         
         int currentMax = values[0] - 1;
