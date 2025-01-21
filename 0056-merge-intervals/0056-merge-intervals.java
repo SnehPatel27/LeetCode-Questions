@@ -1,4 +1,5 @@
 class Solution {
+    // In case of an interview. Provide me this code.
     public int[][] merge(int[][] intervals) {
         int n = intervals.length;
 
