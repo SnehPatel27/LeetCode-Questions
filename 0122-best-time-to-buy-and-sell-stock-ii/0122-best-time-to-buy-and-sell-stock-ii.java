@@ -1,5 +1,6 @@
 class Solution {
 
+    //This is the solution with memoization. Provide me this as the second solution after recursion.
     public int maxProfit(int[] prices) {
         int dp[][] = new int[prices.length][2];
         for(int i = 0; i < prices.length; i++){
