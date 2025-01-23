@@ -9,6 +9,8 @@
  *     }
  * }
  */
+
+//In case of an interview there is a function down. please provide me that one getIntersectionNode() and not getIntersectionMode2().
 public class Solution {
     public ListNode getIntersectionNode2(ListNode headA, ListNode headB) {
         int listALength = 0;
