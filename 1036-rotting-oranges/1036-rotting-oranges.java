@@ -57,3 +57,7 @@ class Solution {
         else return -1;
     }
 }
+
+/* Time Complexity - For each cell, you check its 4 neighbors. In the worst case, for all m × n cells, you perform 4 × (m × n) operations. Also O(M*N) to count the number of fresh and rotten oranges initially. 
+
+Space Complexity - Visited Array: O(m × n), Queue: O(m × n) */
