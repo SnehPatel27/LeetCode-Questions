@@ -35,4 +35,11 @@ class Solution {
 
         return res.toString();
     }
+
+    /* Time Complexity - Counting freq of char - O(N), Appending in pq takes O(logK) so in the worst case it would be 26 chars
+so O(1), Processing the PQ - Since the total number of insertions and removals is proportional to the number of characters   in the string (n), this step is bounded by O(n log k).
+  */ /* Space Complexity - Character Frequency Array: O(26) = O(1), PriorityQueue: O(k) PriorityQueue stores at most k elements, where k is the number of distinct characters in the string, StringBuilder: O(n).
+    
+    Time Complexity: O(n + n log k)
+    Space Complexity: O(n + k) */
 }
