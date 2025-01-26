@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0322-coin-change) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0778-reorganize-string) |
@@ -748,4 +751,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
