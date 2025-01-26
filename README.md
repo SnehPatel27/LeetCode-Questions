@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0952-word-subsets) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1002-maximum-width-ramp](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1036-rotting-oranges) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0948-sort-an-array) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1095-two-city-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1095-two-city-scheduling) |
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0778-reorganize-string) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1095-two-city-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1095-two-city-scheduling) |
 | [1304-longest-happy-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0778-reorganize-string) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
