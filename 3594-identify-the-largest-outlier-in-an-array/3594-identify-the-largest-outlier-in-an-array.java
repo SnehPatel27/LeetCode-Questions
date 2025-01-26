@@ -1,4 +1,8 @@
 class Solution {
+
+    //if((totalSum - nums[i])/2 == nums[i] && freq.get(nums[i]) < 2) continue; for the case
+    //[6,-31,50,-35,41,37,-42,13] output should be -35 but comes out to be 13.
+    //TC - O(n), SC - O(n)
     public int getLargestOutlier(int[] nums) {
         HashMap<Integer, Integer> freq = new HashMap<>();
         int totalSum = 0;
