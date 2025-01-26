@@ -1,4 +1,5 @@
 class Solution {
+    //In case of interview provide me the code that is below.
     public int[][] kClosestt(int[][] points, int k) {
         Map<Double, List<Integer>> distance = new HashMap<>();
         PriorityQueue<Double> pq = new PriorityQueue();
@@ -35,6 +36,7 @@ class Solution {
         return result;
     }
 
+    //Provide this code
     public int[][] kClosest(int[][] points, int k) {
         PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> Integer.compare(b[0] * b[0] + b[1] * b[1], a[0] * a[0] + a[1] * a[1]));
         int[][] result = new int[k][2];
