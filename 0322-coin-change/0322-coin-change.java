@@ -37,4 +37,7 @@ class Solution {
 
         return dp[index][target] = Math.min(take, notTake);
     }
+
+    //If the constraints are simple and the coins[i] value is length and also the length of the coins is less
+    //Then please provide me some other solution if applicable.
 }
