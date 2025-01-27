@@ -23,7 +23,6 @@ class Solution {
         while(x > 0){
             digit = x % 10;
             if (reverse > Integer.MAX_VALUE / 10 ) return 0;
-            if (reverse < Integer.MIN_VALUE / 10 ) return 0;
             reverse = (reverse * 10) + digit;
             x = x / 10;
         }
