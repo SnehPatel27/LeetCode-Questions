@@ -1,4 +1,7 @@
 class Solution {
+
+    //First give the recursive - memoization - dp
+
     //DP Solution
     public int climbStairss(int n) {
         if(n == 0 || n == 1){
