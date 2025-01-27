@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
+| [1585-the-kth-factor-of-n](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1585-the-kth-factor-of-n) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0204-count-primes) |
+| [1585-the-kth-factor-of-n](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1585-the-kth-factor-of-n) |
 ## Graph
 |  |
 | ------- |
