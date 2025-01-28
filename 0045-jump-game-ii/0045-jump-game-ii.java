@@ -1,5 +1,7 @@
 class Solution {
     //This is the optimal approach. 
+    //The time complexity for this is O(n).
+    //Space is constant.
     public int jump(int[] nums) {
         
         int left = 0;
