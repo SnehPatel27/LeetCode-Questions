@@ -37,4 +37,8 @@ class Solution {
 
         return true;
     }
+
+    //TC - O(9 * 9) = constant
+    //SC for Hashset row size 9 and each row[i] can store at most 9 chars so O(9*9)
+    //same is for other hashsets too so SC - O(81 + 81 + 81) = constant.
 }
