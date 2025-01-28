@@ -20,14 +20,16 @@ class Solution {
                     if(sum == (long)target){
                         result.add(Arrays.asList(nums[i], nums[j], nums[leftpointer], nums[rightpointer]));
 
-                        while(leftpointer < rightpointer && nums[leftpointer] == nums[leftpointer + 1]){
-                        leftpointer++;
-                        }
-                        while(leftpointer < rightpointer && nums[rightpointer] == nums[rightpointer - 1]){
-                            rightpointer--;
-                        }
                         leftpointer++;
                         rightpointer--;
+
+                        while(leftpointer < rightpointer && nums[leftpointer] == nums[leftpointer - 1]){
+                        leftpointer++;
+                        }
+                        while(leftpointer < rightpointer && nums[rightpointer] == nums[rightpointer + 1]){
+                            rightpointer--;
+                        }
+                        
                     }
                     else if(sum > (long)target){
                         rightpointer--;
