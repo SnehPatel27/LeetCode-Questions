@@ -9,8 +9,6 @@ class Solution {
                     continue;
                 
                 if(i == word.length() - 1 || dp[i - word.length()]){
-                    System.out.println("The position is " +i);
-                    System.out.println("Comparing : " +s.substring(i - word.length() + 1, i + 1)+ " and " +word);
                     if(s.substring(i - word.length() + 1, i + 1).equals(word)){
                         dp[i] = true;
                         break;
