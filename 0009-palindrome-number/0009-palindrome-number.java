@@ -1,4 +1,5 @@
 class Solution {
+    //This solution converts Int to String
     public boolean isPalindromee(int x) {
         
         String str = Integer.toString(x);
