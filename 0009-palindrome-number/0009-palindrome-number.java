@@ -1,5 +1,5 @@
 class Solution {
-    public boolean isPalindrome(int x) {
+    public boolean isPalindromee(int x) {
         
         String str = Integer.toString(x);
 
@@ -15,18 +15,23 @@ class Solution {
         }
         
         return true;
+    }
+
+    public boolean isPalindrome(int x) {
+
+        if(x < 0) return false;
+        int num = x;
         
-        // int digit,num=0;
-        // int check = x;
-        // if(x < 0){
-        //     return false;
-        // }
-        // while(x>0){
-        //     digit = x%10;
-        //     num =  digit + (num * 10);
-        //     x = x/10;
-        // }  
-        // System.out.println(num);
-        // return (num == check);
+        int reverseNum = 0;
+        while(x > 0){
+            int unit = x % 10;
+            reverseNum = (reverseNum * 10) + unit;
+            x = x / 10;
+        }
+
+        System.out.println(reverseNum);
+
+        if(num == reverseNum) return true;
+        return false;
     }
 }
