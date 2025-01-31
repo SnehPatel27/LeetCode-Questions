@@ -16,7 +16,9 @@ class Solution {
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(visited[i][j]==0 && grid[i][j] == '1'){
-                    dfs(i, j, visited, grid);
+                    bfs(i, j, visited, grid);
+                    //In case if the question demands using DFS travsersal 
+                    //dfs(i, j, visited, grid);
                     count++;
                 }
             }
@@ -49,6 +51,7 @@ class Solution {
         }
     }
 
+    //IN case if the question demands using DFS Traversal 
     public void dfs(int i, int j, int visited[][], char grid[][]) {
         int n = grid.length;
         int m = grid[0].length;
