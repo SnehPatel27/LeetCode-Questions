@@ -1,7 +1,9 @@
 class Solution {
 
-    //This is the recursive solution with TLE
+    //This is the memoization solution
     public int mincostTickets(int[] days, int[] costs) {
+        //The max days can go upto 365. But then there would be a case when 30 days are added
+        //So then the days can go upto 365 + 30. 
         Integer[][] dp = new Integer[days.length][396];
         return findMinCost(0, 0, days, costs, dp);   
     }
