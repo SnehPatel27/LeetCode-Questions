@@ -16,7 +16,7 @@ class Solution {
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(visited[i][j]==0 && grid[i][j] == '1'){
-                    bfs(i, j, visited, grid);
+                    dfs(i, j, visited, grid);
                     count++;
                 }
             }
@@ -47,5 +47,24 @@ class Solution {
                 }
             }
         }
+    }
+
+    public void dfs(int i, int j, int visited[][], char grid[][]) {
+        int n = grid.length;
+        int m = grid[0].length;
+        
+        // Base conditions: Out of bounds or already visited or water
+        if(i < 0 || i >= n || j < 0 || j >= m || visited[i][j] == 1 || grid[i][j] == '0') {
+            return;
+        }
+
+        // Mark as visited
+        visited[i][j] = 1;
+
+        // Explore all four directions
+        dfs(i - 1, j, visited, grid); // Up
+        dfs(i + 1, j, visited, grid); // Down
+        dfs(i, j - 1, visited, grid); // Left
+        dfs(i, j + 1, visited, grid); // Right
     }
 }
