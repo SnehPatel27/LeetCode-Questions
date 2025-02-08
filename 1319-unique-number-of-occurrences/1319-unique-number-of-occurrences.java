@@ -1,5 +1,7 @@
 class Solution {
-    public boolean uniqueOccurrences(int[] arr) {
+
+    //This is using a boolean array
+    public boolean uniqueOccurrences1(int[] arr) {
         HashMap<Integer, Integer> freq = new HashMap<>();
 
         for(int i = 0; i < arr.length; i++){
@@ -17,5 +19,18 @@ class Solution {
         }
 
         return true;
+    }
+
+    //This is using a hashSet
+    public boolean uniqueOccurrences(int[] arr) {
+        HashMap<Integer, Integer> freq = new HashMap<>();
+
+        for(int i = 0; i < arr.length; i++){
+            freq.put(arr[i], freq.getOrDefault(arr[i], 0) + 1);
+        }
+
+        HashSet<Integer> res = new HashSet<>(freq.values());
+
+        return (res.size() == freq.size());
     }
 }
