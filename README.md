@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1272-invalid-transactions) |
 | [1306-minimum-absolute-difference](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1306-minimum-absolute-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1272-invalid-transactions) |
+| [1319-unique-number-of-occurrences](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1364-tuple-with-same-product) |
 | [1512-design-underground-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1512-design-underground-system) |
 | [1547-destination-city](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1547-destination-city) |
