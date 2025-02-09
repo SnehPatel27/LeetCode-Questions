@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 ## Matrix
 |  |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
