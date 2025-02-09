@@ -1,4 +1,7 @@
 class Solution {
+
+    //First provide me the recursive solution. The one with TLE in the submissions
+    //Then provide me this solution with memoization.
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         int[][] dp = new int[obstacleGrid.length][obstacleGrid[0].length];
 
