@@ -1,5 +1,7 @@
 class Solution {
     public String frequencySort(String s) {
+
+        //This algorithm uses counting sort 
         HashMap<Character, Integer> freq = new HashMap<>();
         int n = s.length();
         for(int i = 0; i < n; i++){
