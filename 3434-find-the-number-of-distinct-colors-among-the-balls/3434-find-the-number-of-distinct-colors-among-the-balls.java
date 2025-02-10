@@ -36,6 +36,7 @@ class Solution {
         return res;
     }
 
+    //This is the optimised solution
     public int[] queryResults(int limit, int[][] queries) {
         
         HashMap<Integer, Integer> colorFrequency = new HashMap<>(); 
