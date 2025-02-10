@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1272-invalid-transactions) |
 | [1306-minimum-absolute-difference](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1488-sort-integers-by-the-power-value](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1488-sort-integers-by-the-power-value) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
+| [1488-sort-integers-by-the-power-value](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Backtracking
 |  |
 | ------- |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0139-word-break) |
+| [1488-sort-integers-by-the-power-value](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Divide and Conquer
 |  |
 | ------- |
