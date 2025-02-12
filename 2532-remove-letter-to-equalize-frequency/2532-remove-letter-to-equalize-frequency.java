@@ -5,16 +5,13 @@ class Solution {
 
         for(int i = 0; i < 26; i++){
             if(hash[i] != 0){
-                System.out.println("Inside");
                 if(possibleFrequency == -1) possibleFrequency = hash[i];
                 else if(possibleFrequency == hash[i]) continue;
                 else return false;
             }
-            System.out.println(possibleFrequency);
         }
-        
 
-        if(possibleFrequency == -1) return false;
+        
         return true;
     }
 
