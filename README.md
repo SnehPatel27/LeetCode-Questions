@@ -781,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0969-number-of-recent-calls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0969-number-of-recent-calls) |
 | [1512-design-underground-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1512-design-underground-system) |
 ## String Matching
 |  |
@@ -866,8 +867,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
