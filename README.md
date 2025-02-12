@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1512-design-underground-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1512-design-underground-system) |
@@ -818,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
