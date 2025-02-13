@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2165-plates-between-candles) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1488-sort-integers-by-the-power-value](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1488-sort-integers-by-the-power-value) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
