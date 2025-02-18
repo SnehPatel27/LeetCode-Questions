@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-count-unhappy-friends](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1705-count-unhappy-friends) |
 | [1775-design-an-ordered-stream](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1775-design-an-ordered-stream) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2165-plates-between-candles](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2165-plates-between-candles) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2047-find-a-peak-element-ii) |
 | [2165-plates-between-candles](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2165-plates-between-candles) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1488-sort-integers-by-the-power-value](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1488-sort-integers-by-the-power-value) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1095-two-city-scheduling) |
 | [1304-longest-happy-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3195-separate-black-and-white-balls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
@@ -322,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
