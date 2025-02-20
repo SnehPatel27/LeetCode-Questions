@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0525-contiguous-array) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [0943-sum-of-subarray-minimums](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0943-sum-of-subarray-minimums) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 ## Memoization
 |  |
