@@ -6,24 +6,33 @@ class Solution {
         }
 
         if(totalSum - target < 0 || ((totalSum - target) % 2) != 0) return 0;
+        int newTarget = (totalSum - target) / 2;
 
-        return countTotalWays(nums, ((totalSum - target) / 2), nums.length - 1);
+        int[][] dp = new int[nums.length][newTarget + 1];
+
+        for(int[] rows: dp){
+            Arrays.fill(rows, -1);
+        }
+
+        return countTotalWays(nums, newTarget, nums.length - 1, dp);
     }
 
-    public int countTotalWays(int[] nums, int target, int index){
+    public int countTotalWays(int[] nums, int target, int index, int[][] dp){
         if(index == 0){
             if(target == 0 && nums[index] == 0) return 2;
             if(target == 0 || nums[index] == target) return 1;
             return 0;
         }
 
-        int notTake = countTotalWays(nums, target, index - 1);
+        if(dp[index][target] != -1) return dp[index][target];
+
+        int notTake = countTotalWays(nums, target, index - 1, dp);
         int take = 0;
         if(nums[index] <= target){
-            take = countTotalWays(nums, target - nums[index], index - 1);
+            take = countTotalWays(nums, target - nums[index], index - 1, dp);
         }
 
-        return take + notTake;
+        return dp[index][target] = take + notTake;
     
     }
 }
