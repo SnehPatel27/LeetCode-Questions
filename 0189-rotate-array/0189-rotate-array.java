@@ -4,6 +4,7 @@ class Solution {
         int[] result = new int[n];
 
         k = k % n;
+        if(k == 0) return;
 
         int counter = 0;
 
