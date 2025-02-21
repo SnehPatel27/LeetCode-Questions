@@ -1,3 +1,16 @@
+//This question is similar to creating two partitions whose difference is target. 
+//For example Partition 1 can have 1,1,1,1 and partition 2 can have 1. 
+//Difference is 3 which is equal to target. This is one of the way. 
+//There are 5 ways in doing this to ans is 5. 
+//So this question is transformed to count total partitions with difference target. 
+
+//Lets say the sum of two partitions are s1 and s2.
+//such that s1 - s2 = target. Something we have to find. 
+//s1 can be written as totalSum - s2. 
+//we get s2 = (totalSum - target) / 2.
+//So basically we need to find the total ways to generate sum of TotalSum - target / 2.
+//Hence again the question is split down to count total subsets with sum = k where k is...
+
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
         int totalSum = 0;
