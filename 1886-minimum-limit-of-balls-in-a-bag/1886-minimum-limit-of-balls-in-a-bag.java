@@ -22,6 +22,8 @@ class Solution {
             high = Math.max(high, num);
         }
 
+        high = high - 1;
+
         while(low <= high){
             int possibleSoln = (low + high) / 2;
             if(isPossible(possibleSoln, nums, maxOperations)){
