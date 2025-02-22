@@ -6,14 +6,10 @@ class Solution {
         while(tPointer < t.length() && sPointer != s.length()){
             if(s.charAt(sPointer) == t.charAt(tPointer)){
                 sPointer++;
-                tPointer++;
-            } else {
-                tPointer++;
-            }
+            } 
+            tPointer++;
         }   
 
-        if(sPointer == s.length())
-            return true;
-        return false;
+        return (sPointer == s.length());
     }
 }
