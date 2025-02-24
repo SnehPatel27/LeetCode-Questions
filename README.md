@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
+| [1397-search-suggestions-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1524-string-matching-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1547-destination-city) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
+| [1397-search-suggestions-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1397-search-suggestions-system) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1272-invalid-transactions) |
 | [1306-minimum-absolute-difference](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1306-minimum-absolute-difference) |
+| [1397-search-suggestions-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1488-sort-integers-by-the-power-value](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1397-search-suggestions-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1397-search-suggestions-system) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-design-underground-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1512-design-underground-system) |
 | [1524-string-matching-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1304-longest-happy-string) |
+| [1397-search-suggestions-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -903,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1397-search-suggestions-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
