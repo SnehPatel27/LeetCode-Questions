@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1397-search-suggestions-system) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1524-string-matching-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1547-destination-city) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2047-find-a-peak-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2047-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
