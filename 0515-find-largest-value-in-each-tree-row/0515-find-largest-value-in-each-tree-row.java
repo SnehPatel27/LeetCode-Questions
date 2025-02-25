@@ -14,6 +14,8 @@
  * }
  */
 class Solution {
+    //This solution uses BFS
+    //Can also be done using DFS
     public List<Integer> largestValues(TreeNode root) {
 
         Queue<TreeNode> q = new LinkedList<>();
@@ -37,7 +39,7 @@ class Solution {
 
             result.add(max);
         }
-
+ 
         return result;
     }
 }
