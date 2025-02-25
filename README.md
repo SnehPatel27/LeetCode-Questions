@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1397-search-suggestions-system) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1524-string-matching-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1547-destination-city) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1585-the-kth-factor-of-n) |
 ## Depth-First Search
 |  |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0969-number-of-recent-calls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1512-design-underground-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1775-design-an-ordered-stream) |
@@ -971,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1775-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
