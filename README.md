@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
@@ -982,4 +983,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1775-design-an-ordered-stream) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
