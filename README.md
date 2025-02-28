@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0739-daily-temperatures) |
+| [0753-open-the-lock](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
+| [0753-open-the-lock](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
+| [0753-open-the-lock](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0952-word-subsets) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0684-redundant-connection) |
+| [0753-open-the-lock](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0753-open-the-lock) |
 | [0813-all-paths-from-source-to-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1036-rotting-oranges) |
