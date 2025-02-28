@@ -20,6 +20,7 @@ class Solution {
         Queue<Pair> q = new LinkedList<>();
 
         q.offer(new Pair("0000", 0));
+        visited.add("0000");
 
         while(!q.isEmpty()){
 
