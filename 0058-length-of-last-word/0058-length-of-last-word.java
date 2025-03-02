@@ -1,5 +1,7 @@
 class Solution {
-    public int lengthOfLastWord1(String s) {
+    
+    //Provide me this one
+    public int lengthOfLastWord(String s) {
         int i = s.length() - 1;
         int count = 0;
         while(i >= 0){
@@ -17,7 +19,7 @@ class Solution {
     }
 
     //Editorial Solution
-    public int lengthOfLastWord(String s) {
+    public int lengthOfLastWord1(String s) {
         int p = s.length(), length = 0;
         while (p > 0) {
             p--;
