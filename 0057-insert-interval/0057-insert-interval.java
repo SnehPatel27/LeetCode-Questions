@@ -12,6 +12,7 @@ class Solution {
         }
 
         //Iterate now till there is merge in the intervals.
+        //Keep on merging and then once merged add it to the final list. 
         while(i < n && intervals[i][0] <= newInterval[1]){
             newInterval[0] = Math.min(intervals[i][0], newInterval[0]);
             newInterval[1] = Math.max(intervals[i][1], newInterval[1]);
@@ -19,6 +20,7 @@ class Solution {
         }
         mergedInterval.add(newInterval);
 
+        //Now all the leftover elements in the intervals are greater than the newInterval so keep on adding them.
         while(i < n){
             mergedInterval.add(intervals[i]);
             i++;
