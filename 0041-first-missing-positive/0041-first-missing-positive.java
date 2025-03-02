@@ -21,11 +21,13 @@ class Solution {
         return n + 1;
     }
 
+    //This is using extra space. The question just tells to do in O(1). So this is just the temporary solution
     public int firstMissingPositive(int[] nums) {
         HashSet<Integer> numbers = new HashSet<>();
 
         for(int num: nums){
-            numbers.add(num);
+            if(num <= nums.length)
+                numbers.add(num);
         }
 
         int index = 1;
