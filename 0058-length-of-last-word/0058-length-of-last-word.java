@@ -1,5 +1,5 @@
 class Solution {
-    public int lengthOfLastWord(String s) {
+    public int lengthOfLastWord1(String s) {
         int i = s.length() - 1;
         int count = 0;
         while(i >= 0){
@@ -14,5 +14,22 @@ class Solution {
         }
 
         return count;
+    }
+
+    //Editorial Solution
+    public int lengthOfLastWord(String s) {
+        int p = s.length(), length = 0;
+        while (p > 0) {
+            p--;
+            // we're in the middle of the last word
+            if (s.charAt(p) != ' ') {
+                length++;
+            }
+            // here is the end of last word
+            else if (length > 0) {
+                return length;
+            }
+        }
+        return length;
     }
 }
