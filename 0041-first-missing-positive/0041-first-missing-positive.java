@@ -3,7 +3,7 @@ class Solution {
     //what if the array is like 1,2,3,4. 
     //Should we return -1 or 5?
 
-    public int firstMissingPositive(int[] nums) {
+    public int firstMissingPositive1(int[] nums) {
         boolean[] seen = new boolean[nums.length + 1];
         int n = nums.length;
         for(int i = 0; i < n; i++){
@@ -19,5 +19,19 @@ class Solution {
         }
 
         return n + 1;
+    }
+
+    public int firstMissingPositive(int[] nums) {
+        HashSet<Integer> numbers = new HashSet<>();
+
+        for(int num: nums){
+            numbers.add(num);
+        }
+
+        int index = 1;
+        while(numbers.contains(index)){
+            index++;
+        }
+        return index;
     }
 }
