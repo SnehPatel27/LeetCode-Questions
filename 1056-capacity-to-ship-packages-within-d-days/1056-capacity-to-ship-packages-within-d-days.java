@@ -12,7 +12,6 @@ class Solution {
 
         while(low <= high){
             int mid = (high + low) / 2;
-            System.out.println("The mid days curently is " +mid);
             if(isPossible(mid, weights, days)){
                 day = mid;
                 high = mid - 1;
@@ -39,7 +38,6 @@ class Solution {
             right++;
         }
         calculatedDays++;
-        System.out.println(calculatedDays+ " this is what it is");
         return calculatedDays <= days;
     }  
 }
