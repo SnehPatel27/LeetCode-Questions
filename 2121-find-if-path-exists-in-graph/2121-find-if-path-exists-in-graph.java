@@ -25,7 +25,6 @@ class Solution {
         for(int i = 0; i < adjacencyMatrix[source].size(); i++){
             int newSource = adjacencyMatrix[source].get(i);
             if(!visited[newSource]){
-                visited[newSource] = true;
                 if(checkPath(adjacencyMatrix, newSource, destination, visited)){
                     return true;
                 }
