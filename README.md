@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1397-search-suggestions-system) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-design-underground-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1512-design-underground-system) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1547-destination-city) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Memoization
 |  |
 | ------- |
