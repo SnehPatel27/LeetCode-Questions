@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0952-word-subsets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1272-invalid-transactions) |
 | [1319-unique-number-of-occurrences](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1319-unique-number-of-occurrences) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1095-two-city-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1095-two-city-scheduling) |
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1272-invalid-transactions) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0753-open-the-lock) |
 | [0813-all-paths-from-source-to-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
@@ -828,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -867,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Monotonic Stack
