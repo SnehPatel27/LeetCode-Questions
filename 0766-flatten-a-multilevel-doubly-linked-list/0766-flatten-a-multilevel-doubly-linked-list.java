@@ -13,7 +13,7 @@ class Solution {
         Node current = head;
 
         Stack<Node> st = new Stack<>();
-
+        
         while(current != null){
             if(current.child != null){
                 if(current.next!=null) st.push(current.next);
@@ -23,7 +23,7 @@ class Solution {
             }
             else if(!st.isEmpty() && current.next == null){
                 current.next = st.pop();
-                if(current.next != null) current.next.prev = current;
+                current.next.prev = current;
             }
             current = current.next;
         }
