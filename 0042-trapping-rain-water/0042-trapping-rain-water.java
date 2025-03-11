@@ -1,8 +1,6 @@
 class Solution {
 
-    //int total = 0;
-
-    public int trap(int[] height) {
+    public int trap1(int[] height) {
         
         int leftMax = 0;
         int rightMax = 0; 
@@ -34,29 +32,32 @@ class Solution {
         return total;
     }
 
-    // public int trap2(int[] height) {
+    //This is the brute force solution computing the left and right max before and using extra storage.
+    public int trap(int[] height) {
+        int n = height.length;
+        if (n == 0) return 0;
         
-    //     for(int i = 0; i < height.length; i++){
-    //         if(height[0] == 0){
-    //             continue;
-    //         }
-    //         int start = height[i];
-    //         for(int j = i + 1; j < height.length; j++){
-    //             if(height[j] >= start){
-    //                 int end = height[j];
-    //                 calculateWaterStored(start, end, height);
-    //                 break;
-    //             }
-    //         }
-    //     }
-
-    //     return total;
-    // }
-
-    // public void calculateWaterStored(int start, int end, int[] height){
-    //     int min = Math.min(height[start], height[end]);
-    //     for(int i = start + 1; i < end; i++){
-    //         total = total + (min - height[i]);
-    //     }
-    // }
+        int[] leftMax = new int[n];
+        int[] rightMax = new int[n];
+        
+        // Build the leftMax array
+        leftMax[0] = height[0];
+        for (int i = 1; i < n; i++) {
+            leftMax[i] = Math.max(height[i], leftMax[i - 1]);
+        }
+        
+        // Build the rightMax array
+        rightMax[n - 1] = height[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            rightMax[i] = Math.max(height[i], rightMax[i + 1]);
+        }
+        
+        // Calculate total trapped water
+        int total = 0;
+        for (int i = 0; i < n; i++) {
+            total += Math.min(leftMax[i], rightMax[i]) - height[i];
+        }
+        
+        return total;
+    }
 }
