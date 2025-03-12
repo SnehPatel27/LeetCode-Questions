@@ -34,6 +34,11 @@ class Solution {
     }
 
     //This is the editorial solution
+    /*
+    Java's Stack Class:
+    The built-in Stack is based on Vector and is synchronized, meaning every operation is thread-safe. 
+    In a single-threaded scenario, this extra synchronization can add unnecessary overhead.
+    */
     public String removeKdigits(String num, int k) {
         LinkedList<Character> stack = new LinkedList<Character>();
         
