@@ -28,7 +28,7 @@ class UndergroundSystem {
         double tripTime = t - checkInTime;
         journeyData.put(routeData, new Pair<>(totalTripsTime + tripTime, totalTrips + 1));
 
-        checkInData.remove(id);
+        
 
     }
     
