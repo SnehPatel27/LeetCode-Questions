@@ -28,8 +28,7 @@ class UndergroundSystem {
         double tripTime = t - checkInTime;
         journeyData.put(routeData, new Pair<>(totalTripsTime + tripTime, totalTrips + 1));
 
-        
-
+        //No need to mention checkInData.remove(id);
     }
     
     public double getAverageTime(String startStation, String endStation) {
