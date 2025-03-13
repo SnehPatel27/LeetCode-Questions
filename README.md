@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1547-destination-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1775-design-an-ordered-stream](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1775-design-an-ordered-stream) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1547-destination-city) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
