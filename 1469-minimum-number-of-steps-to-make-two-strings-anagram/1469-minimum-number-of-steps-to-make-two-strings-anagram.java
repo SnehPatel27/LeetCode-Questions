@@ -12,7 +12,11 @@ class Solution {
         }
 
         for(int i = 0; i < 26; i++){
-            ans += Math.max(0, freq[i]);
+            if(freq[i] < 0){
+                ans += Math.abs(freq[i]);
+            }
+
+            
         }
 
         return ans;
