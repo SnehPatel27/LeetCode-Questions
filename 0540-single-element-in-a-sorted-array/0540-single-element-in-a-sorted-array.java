@@ -1,5 +1,5 @@
 class Solution {
-    public int singleNonDuplicate(int[] nums) {
+    public int singleNonDuplicate1(int[] nums) {
         
         int n = nums.length;
         int low = 1;
@@ -25,5 +25,12 @@ class Solution {
         }
 
         return -1;
+    }
+    public int singleNonDuplicate(int[] nums) {
+        int result = 0;
+            for (int num : nums) {
+                result ^= num;  // XOR each number with result
+            }
+        return result;
     }
 }
