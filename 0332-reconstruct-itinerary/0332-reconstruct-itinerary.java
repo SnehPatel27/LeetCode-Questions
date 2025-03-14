@@ -23,6 +23,10 @@ class Solution {
 
         PriorityQueue<String> destinations = adjList.get(source);
 
+        //Lets consider the first Example where SJC has no destinations.
+        //In that case destinations would be null.
+        //Also there would be cases when destinations after removal of destination becomes empty but not null.
+        //So we need both the conditions one to check if its not null and the second to check if its not empty. 
         while(destinations != null && !destinations.isEmpty()){
             String destination = destinations.poll();
             calculateItinerary(itinerary, tickets, adjList, destination);
