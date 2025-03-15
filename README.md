@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1272-invalid-transactions) |
 | [1306-minimum-absolute-difference](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1319-unique-number-of-occurrences) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1397-search-suggestions-system) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1397-search-suggestions-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1272-invalid-transactions) |
 | [1306-minimum-absolute-difference](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1306-minimum-absolute-difference) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1397-search-suggestions-system](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1488-sort-integers-by-the-power-value](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Backtracking
 |  |
