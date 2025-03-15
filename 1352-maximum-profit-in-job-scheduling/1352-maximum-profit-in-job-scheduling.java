@@ -60,7 +60,10 @@ class Solution {
         return dp[n] = Math.max(includeProfit, excludeProfit);
     }
 
+    //This binary search function is used to calculate the next available job in logn form.
     public int findNextAvailableJob(List<List<Integer>> intervals, int n){
+        int targetValue = intervals.get(n).get(1);
+        
         int low = n + 1;
         int high = intervals.size() - 1;
 
@@ -68,11 +71,11 @@ class Solution {
 
         while(low <= high){
             int mid = (low + high) / 2;
-            if(intervals.get(n).get(1) > intervals.get(mid).get(0)){
-                low = mid + 1;
-            } else if(intervals.get(n).get(1) <= intervals.get(mid).get(0)){
+            if(intervals.get(mid).get(0) >= targetValue){
                 result = mid;
-                high = mid - 1;    
+                high = mid - 1;   
+            } else {
+                low = mid + 1;
             }
         }
 
