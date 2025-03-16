@@ -1,4 +1,32 @@
 class Solution {
+
+    public int largestRectangleArea(int[] heights) {
+        int n = heights.length;
+        Stack<Integer> st = new Stack<>();
+        int area = Integer.MIN_VALUE;
+        for(int i = 0; i < n; i++){
+            while(!st.isEmpty() && heights[i] < heights[st.peek()]){
+            
+                int currentElement = st.pop();
+                int previousSmaller = st.isEmpty() ? -1 : st.peek();
+            
+                area = Math.max(area, heights[currentElement] * (i - previousSmaller - 1));
+            }
+
+            st.push(i);
+        }
+
+        while(!st.isEmpty()){
+            int current = st.pop();
+            int nextSmaller = n;
+            int previousSmaller = st.isEmpty() ? -1 : st.peek();
+
+            area = Math.max(area, heights[current] * (nextSmaller - previousSmaller - 1));
+        }
+
+        return area;
+    }
+
     //This is the brute force solution. 
     public int largestRectangleArea1(int[] heights) {
         int n = heights.length;
@@ -21,7 +49,7 @@ class Solution {
     //height = arr[index] = 2 and the width = nse - pse - 1 = 6 - 1 - 1 = 4
     //area = 8.
     //Compute for each and calculate the max.
-    public int largestRectangleArea(int[] heights) {
+    public int largestRectangleArea2(int[] heights) {
         int n = heights.length;
         int[] nse = new int[n];
         int[] pse = new int[n];
