@@ -31,18 +31,8 @@ class Solution {
         calculatePSE(pse, heights);
         calculateNSE(nse, heights);
 
-
-        for(int i = 0; i < n; i++){
-            System.out.print(nse[i] + " ");
-        }
-        System.out.println();
-        for(int i = 0; i < n; i++){
-            System.out.print(pse[i] + " ");
-        }
-
         for(int i = 0; i < n; i++){
             area = Math.max(area, heights[i] * (nse[i] - pse[i] - 1));
-            // System.out.println(area);
         }
 
         return area;
