@@ -1,5 +1,17 @@
 class Solution {
 
+    //This is the solution in which you try to compute the next smaller element and the previous smaller element in the same loop. 
+    //You maintain a monotonic increasing stack
+    //Lets say you have 4, 6, 7 in the stack. 
+    //Next you try to insert 5.
+    //First you pop out 7 and calculate the area as you pop. 
+    //For 7 you know the next smaller element is 5 which is the current element that is being processed. 
+    //For 7 you know the previous smaller element is 6 which is before the 7. 
+    //You have the previous smaller and the next smaller so can easily compute the area.
+    //Lastly you might have elements left that would not have next smaller element for instance the last element and the least element in the array. 
+    //So you need to compute for them seperately. 
+    //For them the next smaller would be equal to the size of the array.
+    //Previous smaller would be either -1 or the top element after the current element is popped out. 
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
         Stack<Integer> st = new Stack<>();
