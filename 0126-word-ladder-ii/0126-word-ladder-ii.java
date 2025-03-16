@@ -50,11 +50,14 @@ class Solution {
         if(wordList.contains(beginWord))
             wordList.remove(beginWord);
         
+        //This one is used to check that if the word has already been traversed we would no traverse it again. 
         Set<String> traversedWords = new HashSet<>();
         traversedWords.add(beginWord);
 
         while(!q.isEmpty()){
             
+            //This keeps a track of the visited nodes in the same level.
+            //At the end of traversing that level we would remove all the nodes in the visited from the wordList.
             List<String> visited = new ArrayList<>();
 
             int size = q.size();
@@ -62,20 +65,22 @@ class Solution {
             for(int i = 0; i < size; i++){
                 String currentWord = q.remove();
 
+                //Find the neighbors of the currentWord
                 List<String> neighbors = calculateNeighbors(currentWord, wordList);
-
-                if(currentWord.equals("hot")){
-                    System.out.println(neighbors.size());
-                }
 
                 for(String word: neighbors){
 
                     visited.add(word);
 
+                    //Creating an adjList for the graph.
                     if(!adjList.containsKey(word)){
                         adjList.put(word, new ArrayList<>());
                     }
 
+                    //We would be using a reverse graph in this case. That is the graph would go from the endWord to the beginWord. 
+                    //The reason being. If we traverse from top to bottom we would also end up traversing the paths that do not lead to 
+                    //the end word but in this case where we are traversing from the bottom to up. It is guranteed that that path would
+                    //always lead to the endWord. So this would reduce the complexity of traversing the unecessary paths.
                     adjList.get(word).add(currentWord);
 
                     if(!traversedWords.contains(word)){
@@ -84,7 +89,9 @@ class Solution {
                     }
 
                 }
-            }
+            } 
+
+            //Removing all the visited words in a level from the wordlist. 
             for(String vistedWords: visited){
                 if(wordList.contains(vistedWords))
                     wordList.remove(vistedWords);
@@ -97,10 +104,13 @@ class Solution {
         
         Set<String> wordListClone = new HashSet<>(wordList);
         
+        //Initially the BFS traversal is used to contrust the graph so that we can backtrack from it and find soln.
         bfs(beginWord, endWord, wordListClone);
         
+        //The path always begin from the endWord.
         currentPath.add(endWord);
         
+        //Find the paths.
         backtrack(endWord, beginWord);
 
         return result;
