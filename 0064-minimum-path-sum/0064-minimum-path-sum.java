@@ -1,46 +1,31 @@
+//This is my solution. This is very bad dont provide this
+//First Provide me the one with the TLE.
+//Then provide me this one. 
 class Solution {
     public int minPathSum(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        int[][] visited = new int[n][m];
+        int[][] dp = new int[grid.length][grid[0].length];
 
-        for(int i = 0; i < n; i++){
-            Arrays.fill(visited[i], Integer.MAX_VALUE);
+        for(int i = 0; i < dp.length; i++){
+            Arrays.fill(dp[i], -1);
         }
 
-        findTheMinPath(grid, 0, 0, visited, grid[0][0]);
-
-        return visited[n - 1][m - 1];
+        return findTheMinPath(grid, 0, 0, dp);
     }
 
-    public void findTheMinPath(int[][] grid, int row, int col, int[][] visited, int currentPathSum){
+    public int findTheMinPath(int[][] grid, int row, int col, int dp[][]){
         
         int n = grid.length;
         int m = grid[0].length;
+        
+        if(row > n - 1 || col > m - 1) return Integer.MAX_VALUE;
 
-        if(n == 1 && m == 1){
-           visited[row][col] = grid[row][col];
-            return;
-        }
+        if(row == n - 1 && col == m - 1) return grid[row][col];
 
-        if(currentPathSum < visited[row][col]){
-            visited[row][col] = currentPathSum;
-        } else {
-            return;
-        }
+        if(dp[row][col] != -1) return dp[row][col];
 
-        int[] nRow = new int[]{0, 1};
-        int[] nCol = new int[]{1, 0};
+        int right = findTheMinPath(grid, row, col + 1, dp);
+        int down = findTheMinPath(grid, row + 1, col, dp);
 
-        for(int i = 0; i < nRow.length; i++){
-            int newRow = row + nRow[i];
-            int newCol = col + nCol[i];
-
-            if(newRow < 0 || newRow > n - 1 || newCol < 0 || newCol > m - 1){
-                continue;
-            }
-
-            findTheMinPath(grid, newRow, newCol, visited, currentPathSum + grid[newRow][newCol]);
-        }
+        return dp[row][col] = grid[row][col] + Math.min(right, down);
     }
 }
