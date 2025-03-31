@@ -8,16 +8,13 @@ class Solution {
 
             switch(currentCharacter){
                 case "+":
-                    result = st.pop() + st.pop();
-                    st.push(result);
+                    st.push(st.pop() + st.pop());
                     break;
                 case "-":
-                    result = - st.pop() + st.pop();
-                    st.push(result);
+                    st.push(- st.pop() + st.pop());
                     break;
                 case "*":
-                    result = st.pop() * st.pop();
-                    st.push(result);
+                    st.push(st.pop() * st.pop());
                     break;
                 case "/":
                     int second = st.pop();
