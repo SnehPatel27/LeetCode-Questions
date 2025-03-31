@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0162-find-peak-element) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0204-count-primes) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
