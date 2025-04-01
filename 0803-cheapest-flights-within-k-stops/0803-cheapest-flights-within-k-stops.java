@@ -1,3 +1,5 @@
+//Here in this question instead of using a normal djistra with a priority Queue where we provide prefernce to the distance. In this case we would be provide importance to the stops. If we reach at a particular location we would check if its distance is less then before and also if total stops taken is <=k. If not we do not consider that node or path. 
+
 class Pair{
     int first;
     int second;
