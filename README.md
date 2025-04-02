@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0621-task-scheduler) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
