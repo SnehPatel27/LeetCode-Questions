@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0621-task-scheduler) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [0753-open-the-lock](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0753-open-the-lock) |
