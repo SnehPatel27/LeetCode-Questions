@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1762-furthest-building-you-can-reach](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1762-furthest-building-you-can-reach) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3195-separate-black-and-white-balls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3317-maximum-palindromes-after-operations](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3317-maximum-palindromes-after-operations) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2107-find-unique-binary-string) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2165-plates-between-candles](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2165-plates-between-candles) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Depth-First Search
 |  |
@@ -1128,4 +1131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
+## Game Theory
+|  |
+| ------- |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
