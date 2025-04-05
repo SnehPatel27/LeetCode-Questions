@@ -14,9 +14,6 @@ class Solution {
             }
         }
 
-        if(aliceCount - bobCount <= 0){
-            return false;
-        }
-        return true;
+        return !(aliceCount - bobCount <= 0);
     }
 }
