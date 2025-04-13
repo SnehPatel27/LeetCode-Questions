@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0377-combination-sum-iv) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1036-rotting-oranges) |
@@ -719,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
@@ -759,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1488-sort-integers-by-the-power-value](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Divide and Conquer
 |  |
@@ -1084,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1095,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Randomized
 |  |
 | ------- |
