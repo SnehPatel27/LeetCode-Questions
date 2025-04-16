@@ -34,3 +34,5 @@ class Solution {
         }
     }
 }
+
+// In this  for(int i = 0; i < size; i++) - even if you dont do this it would still work. 
