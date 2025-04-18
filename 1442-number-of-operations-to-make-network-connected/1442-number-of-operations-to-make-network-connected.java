@@ -47,10 +47,14 @@ class Solution {
 
         for(int i[]: connections){
 
-            if(ds.findParent(i[0]) == ds.findParent(i[1])){
+            int parent1 = ds.findParent(i[0]);
+            int parent2 = ds.findParent(i[1]);
+
+            if(parent1 == parent2){
                 extraCables++;    
             } else{
-                ds.unionBySize(i[0], i[1]);
+                //Directly connect the parents itself so that it can be more optimzed and reduct the future parentCalls. 
+                ds.unionBySize(parent1, parent2);
             }
         }
 
