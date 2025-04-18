@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -1099,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
