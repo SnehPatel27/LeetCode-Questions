@@ -1,23 +1,25 @@
 class DisjointSet{
 
-    List<Integer> size = new ArrayList<>();
-    List<Integer> parent = new ArrayList<>();
+    int[] size;
+    int[] parent;
 
     DisjointSet(int n){
+        size = new int[n];
+        parent = new int[n];
         for(int i = 0; i < n; i++){
-            size.add(1);
-            parent.add(i);
+            size[i] = 1;
+            parent[i] = i;
         }
     }
 
     public int findParent(int node){
 
-        if(node == parent.get(node)){
+        if(node == parent[node]){
             return node;
         }
 
-        int ultimateParent = findParent(parent.get(node));
-        parent.set(node, ultimateParent);
+        int ultimateParent = findParent(parent[node]);
+        parent[node] = ultimateParent;
         return ultimateParent; // Or could return parent.get(node);
     }
 
@@ -29,12 +31,12 @@ class DisjointSet{
             return;
         }
 
-        if(size.get(parentOfNode2) > size.get(parentOfNode1)){
-            parent.set(parentOfNode1, parentOfNode2);
-            size.set(parentOfNode2, size.get(parentOfNode2) + size.get(parentOfNode1));
+        if(size[parentOfNode2] > size[parentOfNode1]){
+            parent[parentOfNode1] = parentOfNode2;
+            size[parentOfNode2] += size[parentOfNode1];
         } else {
-            parent.set(parentOfNode2, parentOfNode1);
-            size.set(parentOfNode1, size.get(parentOfNode1) + size.get(parentOfNode2));
+            parent[parentOfNode2] = parentOfNode1;
+            size[parentOfNode1] += size[parentOfNode2];
         }
     }
 }
