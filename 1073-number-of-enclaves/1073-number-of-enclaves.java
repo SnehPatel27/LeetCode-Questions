@@ -1,3 +1,5 @@
+//Use DFS traversal from all the 1s that are on the edges. All the ones connected to the edges would never be in the solution so change them to 1 in the visited. And at the end of all the traversals check if grid[i][j] == 1 and that has not been visited so that cell would be a part of the answer. 
+
 class Solution {
 
     public void dfs(int[][] grid, int[][] visited, int row, int col, int[] dx, int[] dy){
