@@ -20,14 +20,13 @@ class Solution {
 
         int[][] result = new int[rows][cols];
 
-        boolean[][] visited = new boolean[rows][cols];
-
         Queue<Pair> q = new LinkedList<>();
         for(int i = 0; i < rows; i++){
             for(int j = 0; j < cols; j++){
                 if(mat[i][j] == 0){
-                    visited[i][j] = true;
                     q.offer(new Pair(i, j));
+                } else {
+                    result[i][j] = -1; // Marking them unvisited. 
                 }
             }
         }
@@ -47,12 +46,7 @@ class Solution {
                     int newRow = currentRow + direction[0];
                     int newCol = currentCol + direction[1];
 
-                    if(newRow < 0 || newRow >= rows || newCol < 0 || newCol >= cols){
-                        continue;
-                    }
-
-                    if(mat[newRow][newCol] == 1 && !visited[newRow][newCol]){
-                        visited[newRow][newCol] = true;
+                    if(newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && mat[newRow][newCol] == 1 && result[newRow][newCol] == -1){
                         result[newRow][newCol] = counter;
                         q.offer(new Pair(newRow, newCol));
                     }
