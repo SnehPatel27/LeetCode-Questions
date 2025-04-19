@@ -21,6 +21,8 @@ class Solution {
         return;
     }
 
+
+    //The Zeros present on the border can never be converted to X. And subsquently all the 0s that are connected with those edge 0s can also never get converted to X. So do DFS Traversal and mark all the 0s that are connected to the edges 0s. DFS Traversal will start from the edges.  
     public void solve(char[][] board) {
         int rows = board.length;
         int cols = board[0].length;
