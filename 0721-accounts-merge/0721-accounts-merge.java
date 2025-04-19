@@ -51,6 +51,8 @@ class Solution {
         HashMap<String, Integer> mailIds = new HashMap<>();
 
         //Just Iterate over all the mailIds and assign Ids. 
+        //For instance mailId: index
+        //If you see that a mailId is repeated that mean we have spotted a user already before so just map the current user node with the one already seen user node. Like for instance in the first example John at index 1 gets mapped with john at index 0. So 1 becomes the child of 0 or vice versa. 
         for(int i = 0; i < n; i++){
             for(int j = 1; j < accounts.get(i).size(); j++){
                 String mailId = accounts.get(i).get(j);
@@ -62,8 +64,7 @@ class Solution {
             }
         }
 
-        System.out.println(mailIds.size());
-
+        //Merge all the mails based on the index in the hashMap.
         List<String>[] mergedMail = new ArrayList[n];
 
         for(int i = 0; i < n; i++){
@@ -76,6 +77,7 @@ class Solution {
             mergedMail[node].add(mail);
         }
 
+        //You have the correct mailIds grouped together now so just add the person name before and then add the mailds associated with that person. 
         List<List<String>> ans = new ArrayList<>();
 
         for(int i = 0; i < n; i++){
