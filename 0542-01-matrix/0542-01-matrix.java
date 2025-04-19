@@ -18,6 +18,8 @@ class Solution {
 
         int[][] directions = new int[][]{{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
 
+        int[][] result = new int[rows][cols];
+
         boolean[][] visited = new boolean[rows][cols];
 
         Queue<Pair> q = new LinkedList<>();
@@ -51,13 +53,13 @@ class Solution {
 
                     if(mat[newRow][newCol] == 1 && !visited[newRow][newCol]){
                         visited[newRow][newCol] = true;
-                        mat[newRow][newCol] = counter;
+                        result[newRow][newCol] = counter;
                         q.offer(new Pair(newRow, newCol));
                     }
                 }
             }
         }  
 
-        return mat; 
+        return result; 
     }
 }
