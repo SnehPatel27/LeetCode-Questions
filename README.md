@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0753-open-the-lock) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0948-sort-an-array) |
@@ -1122,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -1174,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Game Theory
 |  |
