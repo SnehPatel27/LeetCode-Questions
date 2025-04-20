@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2383-add-two-integers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2383-add-two-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Depth-First Search
 |  |
