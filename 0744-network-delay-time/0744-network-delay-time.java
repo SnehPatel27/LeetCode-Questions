@@ -53,4 +53,12 @@ class Solution {
 
         return maxTime;
     }
+
+//This can be a bit optimzed by using a greedy Dijkstra Algo. Once the node is pulled from the priority queue and assigned to the distance array that mean that would be smallest distance. So next time when the same node comes again. It would be ok if we dont process it again.
+
+//For that create a visited[] array and when you pull from the priority queue check
+/*
+    if(visited[node] == true) continue;
+    visited[node] = true;
+*/
 }
