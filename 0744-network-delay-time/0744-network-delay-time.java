@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     //This is using Dijkstra Algorithm
     public int networkDelayTime(int[][] times, int n, int k) {
         
@@ -61,4 +61,33 @@ class Solution {
     if(visited[node] == true) continue;
     visited[node] = true;
 */
+}
+
+class Solution{
+    //This is the bellman Ford Algorithm
+    public int networkDelayTime(int[][] times, int n, int k) {
+        int[] distance = new int[n + 1];
+        Arrays.fill(distance, Integer.MAX_VALUE);
+        distance[k] = 0;
+        for(int i = 0; i <= n; i++){
+            for(int[] edge: times){
+                int source = edge[0];
+                int destination = edge[1];
+                int weight = edge[2];
+
+                if(distance[source]!=Integer.MAX_VALUE && (distance[source] + weight < distance[destination])){
+                    distance[destination] = distance[source] + weight;
+                }
+            }
+        } 
+
+        int max = Integer.MIN_VALUE;
+        for(int i = 1; i <= n; i++){
+            if(distance[i] == Integer.MAX_VALUE){
+                return -1;
+            }
+            max = Math.max(max, distance[i]);
+        }       
+        return max;
+    }
 }
