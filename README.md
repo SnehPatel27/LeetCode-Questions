@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1095-two-city-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1095-two-city-scheduling) |
 | [1252-break-a-palindrome](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1252-break-a-palindrome) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1304-longest-happy-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1762-furthest-building-you-can-reach](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1762-furthest-building-you-can-reach) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
