@@ -52,3 +52,57 @@ class Solution {
         return neighbors;
     }
 }
+
+/*  If told to dont use a seperate func to calc the neighbors and also not to modify the input matrix
+class Solution {
+
+    public int[][] getNeighbors() {
+        return new int[][]{
+            {-1, -1}, {-1, 0}, {-1, 1},
+            {0, 1}, {1, 1}, {1, 0},
+            {1, -1}, {0, -1}
+        };
+    }
+
+    public int shortestPathBinaryMatrix(int[][] grid) {
+        int n = grid.length;
+
+        if (grid[0][0] != 0 || grid[n - 1][n - 1] != 0)
+            return -1;
+
+        boolean[][] visited = new boolean[n][n];
+        Queue<int[]> q = new LinkedList<>();
+
+        // row, col, distance
+        q.offer(new int[]{0, 0, 1});
+        visited[0][0] = true;
+
+        while (!q.isEmpty()) {
+            int[] cell = q.poll();
+            int row = cell[0], col = cell[1], dist = cell[2];
+
+            if (row == n - 1 && col == n - 1)
+                return dist;
+
+            for (int[] dir : getNeighbors()) {
+                int newRow = row + dir[0];
+                int newCol = col + dir[1];
+
+                if (isValid(newRow, newCol, grid, visited)) {
+                    visited[newRow][newCol] = true;
+                    q.offer(new int[]{newRow, newCol, dist + 1});
+                }
+            }
+        }
+
+        return -1;
+    }
+
+    public boolean isValid(int r, int c, int[][] grid, boolean[][] visited) {
+        return r >= 0 && c >= 0 &&
+               r < grid.length && c < grid[0].length &&
+               grid[r][c] == 0 && !visited[r][c];
+    }
+}
+
+*/
