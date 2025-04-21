@@ -2,13 +2,11 @@ class Pair{
     int height;
     int row;
     int col;
-    int currentMaxHeight;
 
-    Pair(int height, int row, int col, int currentMaxHeight){
+    Pair(int height, int row, int col){
         this.height = height;
         this.row = row;
         this.col = col;
-        this.currentMaxHeight = currentMaxHeight;
     }
 }
 
@@ -31,7 +29,7 @@ class Solution {
         visited[0][0] = 0;
 
         PriorityQueue<Pair> pq = new PriorityQueue<>((a,b) -> a.height - b.height);
-        pq.offer(new Pair(0, 0, 0, 0));
+        pq.offer(new Pair(0, 0, 0));
 
         int[][] directions = new int[][]{{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
 
@@ -40,22 +38,24 @@ class Solution {
             int height = p.height;
             int row = p.row;
             int col = p.col;
-            int currentMaxHeight = p.currentMaxHeight;
 
             if(row == totalRows - 1 && col == totalCols - 1){
-                return currentMaxHeight;
+                return height;
             }
 
             for(int[] neighbor: directions){
                 int newRow = row + neighbor[0];
                 int newCol = col + neighbor[1];
 
-                if(newRow < 0 || newRow >= totalRows || newCol < 0 || newCol >= totalCols || Math.abs(heights[row][col] - heights[newRow][newCol]) >= visited[newRow][newCol]){
-                    continue;
-                }
+                if(newRow >= 0 && newRow < totalRows && newCol >= 0 && newCol < totalCols){
+                    int currentEffort = Math.abs(heights[row][col] - heights[newRow][newCol]);
+                    int maxEffort = Math.max(currentEffort, height);
 
-                visited[newRow][newCol] = Math.abs(heights[row][col] - heights[newRow][newCol]);
-                pq.offer(new Pair(visited[newRow][newCol], newRow, newCol, Math.max(currentMaxHeight, visited[newRow][newCol])));
+                    if(maxEffort < visited[newRow][newCol]){
+                        visited[newRow][newCol] = maxEffort;
+                        pq.offer(new Pair(maxEffort, newRow, newCol));
+                    }
+                }
             }
         }
 
