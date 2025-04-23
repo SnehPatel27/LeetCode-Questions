@@ -776,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1488-sort-integers-by-the-power-value](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1488-sort-integers-by-the-power-value) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
 | ------- |
@@ -1138,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0813-all-paths-from-source-to-target) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -1146,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Randomized
 |  |
 | ------- |
@@ -1189,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Game Theory
 |  |
 | ------- |
