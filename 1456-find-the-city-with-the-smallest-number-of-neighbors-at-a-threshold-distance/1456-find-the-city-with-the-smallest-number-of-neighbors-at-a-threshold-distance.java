@@ -1,71 +1,62 @@
-import java.util.*;
 class Solution {
     public int findTheCity(int n, int[][] edges, int distanceThreshold) {
-        Map<Integer, List<int[]>> adjacency = new HashMap<>();
+        
+        int ans = 0;
+        int minCount = Integer.MAX_VALUE;
+        List<List<List<Integer>>> adjList = new ArrayList<>();
 
-        for(int i=0; i<edges.length;i++){
-            int from = edges[i][0];
-            int to = edges[i][1];
-            int weight = edges[i][2];
-
-            adjacency.putIfAbsent(from, new ArrayList<>());
-            adjacency.putIfAbsent(to, new ArrayList<>());
-
-            adjacency.get(from).add(new int[]{to, weight});
-            adjacency.get(to).add(new int[]{from, weight});
+        for(int i = 0; i < n; i++){
+            adjList.add(new ArrayList<>());
         }
 
-        int minreachablecities = Integer.MAX_VALUE;
-        int p = -1;
+        for(int[] i: edges){
+            int source = i[0];
+            int destination = i[1];
+            int distance = i[2];
 
-        for(int i=0; i<n; i++){
-            int reachablecities = countReachableCities(n, i, adjacency, distanceThreshold);
-            if(reachablecities <= minreachablecities){
-                minreachablecities = reachablecities;
-                p=i;
+            adjList.get(source).add(Arrays.asList(destination, distance));
+            adjList.get(destination).add(Arrays.asList(source, distance));
+        }
+
+        for(int i = 0; i < n; i++){
+            PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> a[0] - b[0]);
+            pq.offer(new int[]{0, i});
+            int[] distance = new int[n];
+            Arrays.fill(distance, Integer.MAX_VALUE);
+            distance[i] = 0;
+            findShortestDistances(pq, adjList, distance, i);
+            int count = 0;            
+            for(int j = 0; j < n; j++){
+                if(i == j) continue;
+                if(distance[j] <= distanceThreshold){
+                    count++;
+                }
+            }
+            if(count <= minCount){
+                minCount = count;
+                ans = i;
             }
         }
 
-        return p;
+        return ans;
     }
 
-    public int countReachableCities(int n, int startCity, Map<Integer, List<int[]>> adjacency, int threshold){
-        int[] distances = new int[n];
-        Arrays.fill(distances, Integer.MAX_VALUE);
-
-        distances[startCity] = 0;
-
-        PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(a -> a[1]));
-        pq.add(new int[]{startCity, 0});
+    public void findShortestDistances(PriorityQueue<int[]> pq, List<List<List<Integer>>> adjList, int[] distance, int node){
 
         while(!pq.isEmpty()){
-            int current[] = pq.poll();
-            int currentcity = current[0];
-            int currentweight = current[1];
+            int[] a = pq.poll();
+            int currentDistance = a[0];
+            int currentNode = a[1];
+        
+            for(List<Integer> neighbors: adjList.get(currentNode)){
+                int neighborNode = neighbors.get(0);
+                int neighborNodeDistance = neighbors.get(1);
 
-            if(currentweight > threshold){
-                break;
-            }
-
-            if(adjacency.containsKey(currentcity)){
-                for(int neighbor[]: adjacency.get(currentcity)){
-                    int neighborcity = neighbor[0];
-                    int neighborweight = neighbor[1];
-                    int newdistance = neighborweight+currentweight;
-
-                    if(newdistance < distances[neighborcity]){
-                        distances[neighborcity] = newdistance;
-                        pq.add(new int[]{neighborcity, newdistance});
-                    }
+                if(distance[currentNode] + neighborNodeDistance < distance[neighborNode]){
+                    distance[neighborNode] = distance[currentNode] + neighborNodeDistance;
+                    pq.offer(new int[]{distance[neighborNode], neighborNode});
                 }
             }
         }
-        int count = 0;
-        for(int j=0; j<n; j++){
-            if(distances[j] <= threshold){
-                count++;
-            }
-        }
-        return count-1;
     }
 }
