@@ -24,7 +24,7 @@ class Solution {
             int[] distance = new int[n];
             Arrays.fill(distance, Integer.MAX_VALUE);
             distance[i] = 0;
-            findShortestDistances(pq, adjList, distance, i);
+            findShortestDistances(pq, adjList, distance, i, distanceThreshold);
             int count = 0;            
             for(int j = 0; j < n; j++){
                 if(i == j) continue;
@@ -41,12 +41,16 @@ class Solution {
         return ans;
     }
 
-    public void findShortestDistances(PriorityQueue<int[]> pq, List<List<List<Integer>>> adjList, int[] distance, int node){
+    public void findShortestDistances(PriorityQueue<int[]> pq, List<List<List<Integer>>> adjList, int[] distance, int node, int threshold){
 
         while(!pq.isEmpty()){
             int[] a = pq.poll();
             int currentDistance = a[0];
             int currentNode = a[1];
+
+            if(currentDistance > threshold){
+                break;
+            }
         
             for(List<Integer> neighbors: adjList.get(currentNode)){
                 int neighborNode = neighbors.get(0);
