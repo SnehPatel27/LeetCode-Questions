@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2107-find-unique-binary-string) |
 | [2165-plates-between-candles](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2165-plates-between-candles) |
+| [2262-solving-questions-with-brainpower](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-sort-integers-by-the-power-value](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1559-cherry-pickup-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1559-cherry-pickup-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 ## Backtracking
 |  |
 | ------- |
