@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1559-cherry-pickup-ii) |
 | [1582-design-browser-history](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1582-design-browser-history) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1656-count-good-triplets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1656-count-good-triplets) |
 | [1705-count-unhappy-friends](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1705-count-unhappy-friends) |
 | [1753-path-with-minimum-effort](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1762-furthest-building-you-can-reach) |
@@ -1129,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1656-count-good-triplets) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Number Theory
 |  |
