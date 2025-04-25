@@ -38,3 +38,10 @@ class Solution {
         }
     }
 }
+
+/* 
+In this approach, you first scan the array from right to left to find the first index i where nums[i] < nums[i+1] — this identifies the point where the array stops increasing and needs adjustment. If no such index exists (meaning the array is completely non-increasing), you simply reverse the entire array to get the lowest possible order (sorted ascending). Otherwise, once you find the index, you scan again from the right to find the first element greater than nums[i], swap them, and finally reverse the subarray from i+1 to the end to make it the next immediate larger permutation.
+
+Time - O(n) to iterate and also to reverse
+Space - O(1) 
+*/
