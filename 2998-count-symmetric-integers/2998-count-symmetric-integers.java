@@ -1,4 +1,5 @@
-class Solution {
+//This solution is very general could work for any constraints
+class Solution1 {
     public int countSymmetricIntegers(int low, int high) {
         int count = 0;
         while(low <= high){
@@ -34,6 +35,36 @@ class Solution {
             }
 
             low++;
+        }
+
+        return count;
+    }
+}
+
+//This solution is the most optimal considering the constraints in this question
+class Solution{
+    public int countSymmetricIntegers(int low, int high) {
+        
+        int count = 0;
+        for(int i = low; i <= high; i++){
+            if(i <= 100 && i % 11 == 0){
+                count++;
+            }
+
+            if(i > 1000 && i < 10000){
+                //Lets say the number is 1124. low / 1000 would be 1.
+                //low % 1000 would be 124 and (low % 1000) / 100 would be 1;
+                //so a would be 2
+                int a = i / 1000 + (i % 1000 / 100);
+
+                //For this i % 10 would be 4 in this case 
+                //i % 100 / 10 would be the second digit from right wich is 2.
+                int b = i % 10 + (i % 100 / 10);
+
+                if(a == b){
+                    count++;
+                }
+            }
         }
 
         return count;
