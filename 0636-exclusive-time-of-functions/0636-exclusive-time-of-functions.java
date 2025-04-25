@@ -1,7 +1,7 @@
 class Solution {
     public int[] exclusiveTime(int n, List<String> logs) {
         
-        HashMap<Integer, Integer> totalTime = new HashMap<>();
+        int arr[] = new int[n];
         Stack<Integer> st = new Stack<>();
         int lastTime = 0;
 
@@ -13,20 +13,14 @@ class Solution {
 
             if(status.equals("start")){
                 if(!st.isEmpty()){
-                    totalTime.put(st.peek(), totalTime.getOrDefault(st.peek(), 0) + timeStamp - lastTime);
+                    arr[st.peek()] += timeStamp - lastTime;
                 }
                 st.push(functionId);
+                lastTime = timeStamp;
             } else {
-                int completedFunc = st.pop();
-                totalTime.put(completedFunc, totalTime.getOrDefault(completedFunc, 0) + timeStamp - lastTime + 1);
+                arr[st.pop()] += timeStamp - lastTime + 1;
+                lastTime = timeStamp + 1;
             }
-
-            lastTime = (status.equals("start")) ? timeStamp : timeStamp + 1;
-        }
-
-        int arr[] = new int[n];
-        for(int i = 0; i < n; i++){
-            arr[i] = totalTime.get(i);
         }
 
         return arr;
