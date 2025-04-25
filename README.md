@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3317-maximum-palindromes-after-operations](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3317-maximum-palindromes-after-operations) |
 | [3430-count-days-without-meetings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3195-separate-black-and-white-balls](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2047-find-a-peak-element-ii) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Bit Manipulation
 |  |
 | ------- |
