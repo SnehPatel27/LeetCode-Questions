@@ -62,3 +62,14 @@ class Solution {
         return false;
     }
 }
+
+/*
+Building the adjList - O(E)
+Building the indegree array - O(E)
+Initializing the Queue by visiting all nodes and checking for 0 indegree - O(V)
+Queue - O(V) All nodes visited once
+Total - O(V + E)
+
+Space Complexity:
+adjList - O(V + E)
+*/
