@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2383-add-two-integers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2383-add-two-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2998-count-symmetric-integers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1146,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1656-count-good-triplets) |
+| [2998-count-symmetric-integers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2998-count-symmetric-integers) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Number Theory
 |  |
