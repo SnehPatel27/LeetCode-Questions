@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [0636-exclusive-time-of-functions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0721-accounts-merge) |
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
