@@ -110,3 +110,9 @@ class Solution{
         return new int[]{};
     }
 }
+
+/* 
+In this each operation of union and findParent takes the complexity of Alpha(n) TC. where Alpha is an inverse ackerman function. It grows extremely slowly — so much that for all practical inputs (n ≤ 10^6 or even 10^9), α(n) ≤ 5. So, each operation is almost O(1) in practice.
+
+In my code for each node i call 2 x findParent and 1 x union. So for n node the complexity would be O(n * α(n)). In practice, because α(n) is so small, it behaves like: O(n).
+*/
