@@ -114,5 +114,7 @@ class Solution{
 /* 
 In this each operation of union and findParent takes the complexity of Alpha(n) TC. where Alpha is an inverse ackerman function. It grows extremely slowly — so much that for all practical inputs (n ≤ 10^6 or even 10^9), α(n) ≤ 5. So, each operation is almost O(1) in practice.
 
+Ackermann function is a very, very fast-growing function. Inverse Ackermann function, denoted by α(n), grows extremely slowly. So for any realistic input in the universe, α(n) is ≤ 5.
+
 In my code for each node i call 2 x findParent and 1 x union. So for n node the complexity would be O(n * α(n)). In practice, because α(n) is so small, it behaves like: O(n).
 */
