@@ -19,8 +19,8 @@ class Solution {
 
         if(candidates[index] <= target){
             temp.add(candidates[index]);
-            findCombinationSum(index, candidates, target - candidates[index], result, temp);
-            temp.remove(temp.size() - 1);    
+            findCombinationSum(index, candidates, target - candidates[index], result, temp);  
+            temp.remove(temp.size() - 1);  
         }
         findCombinationSum(index + 1, candidates, target, result, temp);
     }
@@ -37,4 +37,9 @@ Suppose the smallest candidate is 1, then the maximum depth of recursion can be 
 O(2^(target + n)) -> But most people simplify it as: O(2^target)
 
 Space would be the recursion depth that would be equal to target in the worst case. 
+
+If you see:
+You are trying multiple options (like pick/not pick or multiple numbers).
+You are modifying some temporary path/answer during recursion.
+You need to undo (remove last choice) after recursion. It is backtracking.
 */
