@@ -26,3 +26,22 @@ class Solution {
         }
     }
 }
+
+/*
+You are generating all permutations of nums.
+
+For an array of size n, the number of permutations = n! (n factorial).
+
+For each permutation path, you are doing O(n) operations:
+Inserting elements into temp
+Copying temp into result
+Managing recursion stack 
+
+Time Complexity = O(n × n!)
+
+Space Complexity:
+temp list → O(n)
+freq array → O(n)
+Recursion stack → O(n) depth
+result list stores n! permutations, each of size n.
+*/
