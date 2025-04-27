@@ -20,9 +20,21 @@ class Solution {
         if(candidates[index] <= target){
             temp.add(candidates[index]);
             findCombinationSum(index, candidates, target - candidates[index], result, temp);
-            temp.remove(temp.size() - 1);
+            temp.remove(temp.size() - 1);    
         }
-
         findCombinationSum(index + 1, candidates, target, result, temp);
     }
 }
+
+/*
+Time Complexity: O(2^target)
+Space Complexity: O(target) 
+
+Every number can be picked multiple times.
+
+Suppose the smallest candidate is 1, then the maximum depth of recursion can be as large as target (because you keep picking small numbers repeatedly until sum reaches target).
+
+O(2^(target + n)) -> But most people simplify it as: O(2^target)
+
+Space would be the recursion depth that would be equal to target in the worst case. 
+*/
