@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0753-open-the-lock) |
