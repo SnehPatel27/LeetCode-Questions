@@ -20,7 +20,7 @@ class Solution1 {
 }
 
 //Another Solution would be to create a hashMap for s1 and then for every window of s2 create a hashMap of s2 and at every intervals compare both the hashMaps. If they are same return true or else return false. 
-class Solution {
+class Solution2 {
     public boolean checkInclusion(String s1, String s2) {   
         HashMap<Character, Integer> s1Map = new HashMap<>();
 
@@ -53,6 +53,49 @@ class Solution {
             }
         }
 
+        return true;
+    }
+}
+
+//We keep a fixed size array of length 20. As we go over the window we can simple update it. So we would remove the character that is no longer the part of the window and we would add the new one that is now the part. Each time we compare the elements to check if everything matches up for the results or not. 
+class Solution {
+    public boolean checkInclusion(String s1, String s2) {   
+        
+        int s1Arr[] = new int[26];
+        int s2Arr[] = new int[26];
+
+        int s1Len = s1.length();
+        int s2Len = s2.length();
+
+        if(s2Len < s1Len) return false;
+
+        for(int i = 0; i < s1Len; i++){
+            s1Arr[s1.charAt(i) - 'a']++;
+            s2Arr[s2.charAt(i) - 'a']++;
+        }
+
+        for(int i = 0; i < s2Len - s1Len; i++){
+            if(matches(s1Arr, s2Arr)){
+                return true;
+            }
+
+            s2Arr[s2.charAt(i + s1Len) - 'a']++;
+            s2Arr[s2.charAt(i) - 'a']--;
+        }
+
+        if(matches(s1Arr, s2Arr)){
+            return true;
+        }
+
+        return false;
+    }
+
+    public boolean matches(int[] s1Arr, int[] s2Arr){
+        for(int i = 0; i < 26; i++){
+            if(s1Arr[i] != s2Arr[i]){
+                return false;
+            }
+        }
         return true;
     }
 }
