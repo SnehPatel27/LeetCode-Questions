@@ -33,6 +33,7 @@ class Solution {
     }
 
     //This is the brute force solution computing the left and right max before and using extra storage.
+    //For a building to store water there should be a building on the left that is greater then current building and at the same time there should be a building on the right greater then the current. So to find the left max and the right max we would use the prefix sum and the suffix sum. 
     public int trap(int[] height) {
         int n = height.length;
         if (n == 0) return 0;
