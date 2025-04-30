@@ -128,31 +128,59 @@ class Solution {
     public int minCostConnectPoints(int[][] points) {
         int nodes = points.length;
 
+        // Step 1: Store all possible edges with their Manhattan distances
+        // Each edge is represented as: [distance, point1, point2]
         List<int[]> edges = new ArrayList<>();
-        
-        DisjointSet ds = new DisjointSet(nodes);
 
-        for(int i = 0; i < nodes; i++){
-            for(int j = i + 1; j < nodes; j++){
-                int distance = Math.abs(points[j][0] - points[i][0]) + Math.abs(points[j][1] - points[i][1]);
+        DisjointSet ds = new DisjointSet(nodes);  // Union-Find data structure
+
+        // Build the full undirected graph (complete graph)
+        // Time: O(N^2) where N is the number of points
+        for (int i = 0; i < nodes; i++) {
+            for (int j = i + 1; j < nodes; j++) {
+                int distance = Math.abs(points[j][0] - points[i][0]) + 
+                               Math.abs(points[j][1] - points[i][1]);
                 edges.add(new int[]{distance, i, j});
             }
         }
 
         int minCost = 0;
-        Collections.sort(edges, (a,b) -> a[0] - b[0]);
 
-        for(int i = 0; i < edges.size(); i++){
+        // Step 2: Sort all edges by their weights (distance)
+        // Time: O(E log E), where E is number of edges ≈ N^2
+        Collections.sort(edges, (a, b) -> a[0] - b[0]);
+
+        // Step 3: Iterate over sorted edges and apply Kruskal's algorithm
+        for (int i = 0; i < edges.size(); i++) {
             int distance = edges.get(i)[0];
             int node1 = edges.get(i)[1];
             int node2 = edges.get(i)[2];
 
-            if(ds.findParent(node1) != ds.findParent(node2)){
-                minCost += distance;
-                ds.unionBySize(node1, node2);
+            // Only connect components that are not already connected
+            if (ds.findParent(node1) != ds.findParent(node2)) {
+                minCost += distance;  // Add edge to MST
+                ds.unionBySize(node1, node2);  // Union the components
             }
         }
 
-        return minCost;
+        return minCost;  // Return total weight of MST
     }
 }
+
+/* 
+Time Complexity:
+Building edge list: O(N²)
+
+Sorting edges: O(E log E) where E = N * (N - 1) / 2 ≈ N²
+
+Union-Find operations: O(E * α(N)) ≈ O(E) due to near-constant inverse Ackermann time
+
+✅ Overall Time Complexity: O(N² log N)
+
+Space Complexity:
+Edge list: O(N²)
+
+Disjoint set data structures (parent[], size[]): O(N)
+
+✅ Overall Space Complexity: O(N²)
+*/
