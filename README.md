@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1656-count-good-triplets](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1656-count-good-triplets) |
 | [1705-count-unhappy-friends](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1705-count-unhappy-friends) |
+| [1706-min-cost-to-connect-all-points](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1762-furthest-building-you-can-reach) |
 | [1775-design-an-ordered-stream](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1775-design-an-ordered-stream) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
@@ -1186,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1706-min-cost-to-connect-all-points](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -1246,4 +1249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
