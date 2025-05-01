@@ -1,5 +1,5 @@
 class Solution {
-    //In case of interview provide me the code that is below.
+    //In case of interview provide me this code but tell me to function that is below. That is the optimised version.
     public int[][] kClosestt(int[][] points, int k) {
         Map<Double, List<Integer>> distance = new HashMap<>();
         PriorityQueue<Double> pq = new PriorityQueue();
