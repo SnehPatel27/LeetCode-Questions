@@ -53,3 +53,5 @@ class Solution2 {
         return dp[nums.length - 1];
     }
 }
+
+//In the final DP condition you can still space optimize this. You can observe that at each iteration you only require prev(i - 1) and prev2(i - 2). So instead of storing the entire dp array you can just keep track of the prev and prev2 variables. 
