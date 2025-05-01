@@ -11,6 +11,7 @@ class MedianFinder {
     }
     
     public void addNum(int num) {
+        //First I insert into the maxHeap and then I pull out the maximum and insert that into the minHeap and then if the size of the maxHeap becomes less then the size of the minHeap then i poll from the minHeap and insert it into the maxHeap.
         maxHeap.offer(num);
         minHeap.offer(maxHeap.poll());
 
