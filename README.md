@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0753-open-the-lock) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0792-binary-search) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
+| [0747-min-cost-climbing-stairs](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0962-flip-string-to-monotone-increasing) |
