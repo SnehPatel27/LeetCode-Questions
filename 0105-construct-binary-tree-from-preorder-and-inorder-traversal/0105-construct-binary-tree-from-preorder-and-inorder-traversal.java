@@ -13,6 +13,8 @@
  *     }
  * }
  */
+
+//Initially when we are given a preorder and inorder. We know that the first guy in the preorder is the root and then we try to search that guy in the inorder. We can optimize that search using hashmap. We would store the values of the inorder along with the index in the hashMap so that we can easily search by values. Also the question says that the values can be unique so we can hash. Once we find the index of the root in the inorder traversal. We know that on the left of the root we have the new inorder for the left subtree. And on the right we have the new inorder for the right subtree. Assume there are x elements on the left of the root in the inorder so then we would take the first x elements in the preorder after the root and that would be my preorder for the left subtree and the rest(that would be the next element to the x till the end) would be my preorder for the right subtree. 
 class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
 
