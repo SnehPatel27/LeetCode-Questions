@@ -35,3 +35,12 @@ class Solution {
         return result;
     }
 }
+
+/*
+Time Complexity: O(n²)
+
+You loop through each character in the string s once → O(n)
+For each character, you expand outward in both directions (left and right) to check for:
+even-length palindromes, odd-length palindromes
+In the worst case (e.g., "aaaaa"), expansion takes up to O(n) time for each center. 
+*/
