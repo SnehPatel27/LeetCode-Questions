@@ -15,11 +15,14 @@ class Solution {
         int ans = 0;
 
         while(--t > 0){
+            //If the time take by last vehicle is less then the prev vehicle then there would be no intersection for the cars so ans++;
             if(cars[t].time < cars[t - 1].time) ans++;            
+            //If there is overlap then update. 
             else cars[t - 1] = cars[t];
         }
-            
-        return ans + (t == 0 ? 1 : 0);
+
+        //We add the last fleet at this point    
+        return ans + 1;
     }
 }
 
