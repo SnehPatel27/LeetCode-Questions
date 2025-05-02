@@ -1,3 +1,4 @@
+//This is the dp solution
 class Solution1 {
     public int longestCommonSubsequences(String text1, String text2) {
         int s1 = text1.length();
@@ -69,6 +70,3 @@ class Solution{
         return dp[index1][index2] = Math.max(checkSubsequence(index1 - 1, index2, text1, text2, dp), checkSubsequence(index1, index2 - 1, text1, text2, dp)); 
     }
 }
-
-
-//This is the dp solution
