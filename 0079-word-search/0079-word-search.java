@@ -31,7 +31,18 @@ class Solution {
                 return true;
         }
 
+        //If after checking all the four directions we do not find the correct match then at the end we make the board element as it was before and we return false. 
         board[i][j] = word.charAt(index);
         return false;
     }
 }
+
+/*Time complexity
+You would traverse the matrix once in the worst case. that would be m * n.
+The recursive depth in this would be L that is the length of the string. 
+In this in the first case you have 4 options. like for instance from A -> B you have 4 choices and then you choose 1. But for the next when you reach B. You cannot come back to A so here you only have 3 options. 
+
+So total time complexity would be O(m * n * 3^L).
+
+Space Complexity: Call stack depth: up to L → O(L)
+*/
