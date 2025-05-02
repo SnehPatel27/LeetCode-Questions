@@ -1,4 +1,4 @@
-public class Solution{
+public class BruteForce{
     public int countSubstrings(String s) {
         int n = s.length();
         int count = 0;
@@ -31,7 +31,7 @@ public class Solution{
     }
 }
 
-class Solution1 {
+class Solution {
     public int countSubstrings(String s) {
         int n = s.length();
         int left;
