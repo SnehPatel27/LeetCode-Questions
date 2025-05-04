@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0455-assign-cookies) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SnehPatel27/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
