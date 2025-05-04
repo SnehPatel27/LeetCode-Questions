@@ -11,7 +11,7 @@
 //So basically we need to find the total ways to generate sum of TotalSum - target / 2.
 //Hence again the question is split down to count total subsets with sum = k where k is...
 
-class Solution {
+class Solution1 {
     public int findTargetSumWays(int[] nums, int target) {
         int totalSum = 0;
         for(int i = 0; i < nums.length; i++){
@@ -47,5 +47,40 @@ class Solution {
 
         return dp[index][target] = take + notTake;
     
+    }
+}
+
+//This is the DP solution
+public class Solution{
+    public int findTargetSumWays(int[] nums, int target){
+        int totalSum = 0;
+        for(int i = 0; i < nums.length; i++){
+            totalSum += nums[i];
+        }
+
+        if(totalSum - target < 0 || ((totalSum - target) % 2) != 0) return 0;
+        int newTarget = (totalSum - target) / 2;
+
+        int[][] dp = new int[nums.length][newTarget + 1];
+
+        for(int i = 0; i < newTarget + 1; i++){
+            if(i == 0 && nums[0] == 0) dp[0][i] = 2;
+            else if(i == 0) dp[0][i] = 1;
+            else if(nums[0] == i) dp[0][i] = 1;
+        }
+
+        for(int index = 1; index < nums.length; index++){
+            for(int j = 0; j <= newTarget; j++){
+                int notTake = dp[index-1][j];
+                int take = 0;
+                if(nums[index] <= j){
+                    take = dp[index-1][j - nums[index]];
+                }
+
+                dp[index][j] = take + notTake;
+            }
+        }
+
+        return dp[nums.length - 1][newTarget];
     }
 }
