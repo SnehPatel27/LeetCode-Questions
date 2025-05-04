@@ -27,6 +27,8 @@ class Solution1 {
     }
 }
 
+//In order to get the dp solution for this case. Understand that the index is going from 0 to n - 1 in the memoization sulution so in this case it would go from n - 1 to 0. Amount goes from amount -> 0. So in the recursive soln it will go from 0 to amount. Then copy the recurrence as it is. For the base case understand that for all the indexes if the amount == 0. then there is just one way that not pick anything. 
+
 //This is the DP solution 
 public class Solution{
     public int change(int amount, int[] coins) {
