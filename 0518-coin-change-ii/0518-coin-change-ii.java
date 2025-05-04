@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     public int change(int amount, int[] coins) {
         int[][] dp = new int[coins.length][amount + 1];
         for(int[] i: dp){
@@ -24,5 +24,29 @@ class Solution {
         }
 
         return dp[index][amount] = pick + notPick;
+    }
+}
+
+//This is the DP solution 
+public class Solution{
+    public int change(int amount, int[] coins) {
+        int[][] dp = new int[coins.length + 1][amount + 1];
+
+        //Base Case: when the amount is zero there is just one way to achieve amount that is to pick nothing
+        for(int i = 0; i < coins.length + 1; i++){
+            dp[i][0] = 1;
+        }
+
+        for(int i = coins.length - 1; i >= 0; i--){
+            for(int j = 0; j <= amount; j++){
+                int notPick = dp[i + 1][j];
+                int pick = 0;
+                if(coins[i] <= j){
+                    pick = dp[i][j - coins[i]];
+                }
+                dp[i][j] = pick + notPick;
+            }
+        }
+        return dp[0][amount];
     }
 }
