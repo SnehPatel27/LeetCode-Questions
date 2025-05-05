@@ -82,3 +82,5 @@ class Solution {
         return distanceA[dst];
     }
 }
+
+//In this priority Queue is not need. Because at every traversal the increase in the stops is constant which is equal to +1. So even if you maintain a normal queue you would be able to achieve the solution cauz at each step the stops increases just by 1. 
