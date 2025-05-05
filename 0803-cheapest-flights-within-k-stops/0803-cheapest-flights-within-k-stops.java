@@ -1,21 +1,22 @@
-//Here in this question instead of using a normal djistra with a priority Queue where we provide prefernce to the distance. In this case we would be provide importance to the stops. If we reach at a particular location we would check if its distance is less then before and also if total stops taken is <=k. If not we do not consider that node or path. 
+// Pair class: used to represent a graph edge (destination, cost)
+class Pair {
+    int first;   // destination node
+    int second;  // cost to reach that node
 
-class Pair{
-    int first;
-    int second;
-
-    Pair(int first, int second){
+    Pair(int first, int second) {
         this.first = first;
         this.second = second;
     }
 }
 
-class Tuple{
-    int first;
-    int second;
-    int third;
+// Tuple class: used in BFS queue
+// Represents (stops made so far, current node, total cost to reach this node)
+class Tuple {
+    int first;   // number of stops used to reach this node
+    int second;  // current node
+    int third;   // total accumulated cost to reach this node
 
-    Tuple(int first, int second, int third){
+    Tuple(int first, int second, int third) {
         this.first = first;
         this.second = second;
         this.third = third;
@@ -23,44 +24,61 @@ class Tuple{
 }
 
 class Solution {
+
+    // Main method to find the cheapest flight with at most k stops
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
+
+        // Step 1: Build adjacency list from input flights
         List<List<Pair>> adjList = new ArrayList<>();
-        for(int i = 0; i < n; i++){
+        for (int i = 0; i < n; i++) {
             adjList.add(new ArrayList<>());
         }
 
-        for(int i = 0; i < flights.length; i++){
-            adjList.get(flights[i][0]).add(new Pair(flights[i][1], flights[i][2]));
+        // Each flight is [from, to, cost]
+        for (int[] flight : flights) {
+            int from = flight[0], to = flight[1], cost = flight[2];
+            adjList.get(from).add(new Pair(to, cost));
         }
 
+        // Step 2: BFS queue to traverse with tracking (stops, node, cost)
+        // We prioritize lower stops rather than cost — since the constraint is on stops
         Queue<Tuple> q = new LinkedList<>();
-        q.offer(new Tuple(0, src, 0));
+        q.offer(new Tuple(0, src, 0)); // Start from source, 0 stops, 0 cost
 
+        // Step 3: Distance array to store minimum cost to reach each node
+        // Initialized to infinity
         int[] distanceA = new int[n];
-        for(int i = 0; i < n; i++){
+        for (int i = 0; i < n; i++) {
             distanceA[i] = Integer.MAX_VALUE;
         }
 
-        while(!q.isEmpty()){
+        // Step 4: BFS traversal
+        while (!q.isEmpty()) {
             Tuple tup = q.poll();
             int stops = tup.first;
             int node = tup.second;
             int distance = tup.third;
 
-            if(stops > k) continue;
+            // If stops exceed allowed limit, ignore this path
+            if (stops > k) continue;
 
-            for(Pair neighbors: adjList.get(node)){
-                int neighborNode = neighbors.first;
-                int neighborDistance = neighbors.second;
+            // Check all adjacent neighbors
+            for (Pair neighbor : adjList.get(node)) {
+                int neighborNode = neighbor.first;
+                int neighborCost = neighbor.second;
 
-                if(distance + neighborDistance < distanceA[neighborNode] && stops <= k){
-                    distanceA[neighborNode] = distance + neighborDistance;
+                // If the new path to neighbor is cheaper, and within stop limit
+                if (distance + neighborCost < distanceA[neighborNode]) {
+                    distanceA[neighborNode] = distance + neighborCost;
+
+                    // Add neighbor to the queue with increased stop count
                     q.offer(new Tuple(stops + 1, neighborNode, distanceA[neighborNode]));
                 }
             }
         }
 
-        if(distanceA[dst] == Integer.MAX_VALUE) return -1;
+        // Step 5: Return the cheapest cost to reach destination
+        if (distanceA[dst] == Integer.MAX_VALUE) return -1;
         return distanceA[dst];
     }
 }
