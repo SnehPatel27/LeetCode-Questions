@@ -1,3 +1,4 @@
+//This problem can be solved using dijkstra. Create initally a visited matrix and intialize everything to int max except the source cell that would be zero. The priority Queue would be consisting of distance, row, col. Keep on updating the distance matrix. When you reach the destination return the distance. But in this case instead of using a priority Queue and using the logn everytime to insert and remove from the queue you can just use a simple queue. Because in this case every cell with less distance would only enter the queue first and then the ones with larger distance so that minheap ordering of the distances would be maintained in this case just by using a normal queue. 
 class Solution {
 
     public int[][] getneighbors(){
